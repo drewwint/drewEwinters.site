@@ -6,10 +6,13 @@ widget_id: about
 headless: true
 weight: 20
 title: What does this do?
-subtitle: ""
+subtitle: "can you please wrok? "
 design:
   columns: "I dont see anything here working "
   background:
     image: ""
 ---
 Why wont this change? why doenst this work?
+
+
+I woudl like this to work 
