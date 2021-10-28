@@ -5,8 +5,8 @@ author: admin
 widget_id: about
 headless: true
 weight: 20
-title: Research
-subtitle: ??
+title: What does this do?
+subtitle: ""
 design:
   columns: "I dont see anything here working "
 ---
