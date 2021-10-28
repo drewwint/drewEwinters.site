@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: about
 headless: true
-weight: 10
+weight: 20
 title: Research
 subtitle: "can you please wrok? "
 design:
