@@ -1,77 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/drewinters
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=GmIdIyIAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/drewwint
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/drewwint/
+organizations:
+  - name: University of Colorado Anschutz Medical Campus
+    url: https://www.cuanschutz.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Social Work Minoring in Quantitative Psychology
+      institution: Indiana University
+      year: 2020
+    - course: MSW
+      institution: Indiana University
+      year: 2015
+    - course: BS in Human Services minoring in Psychology
+      institution: Purdue University
+      year: 2019
+superuser: true
 highlight_name: true
+title: Nelson Bighetti
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Social information inundates our moment-to-moment experience. The way social information is identified, processed, and interpreted shapes the way one interacts with their social landscape, which can have a dramatic impact on their mental health and their social behavior. Social development is particularly important during adolescence when many of the brain systems underlying social psychological constructs (e.g., empathy, theory of mind) and supportive neurocognitive functions (e.g., cognitive control) are at a critical period of development that coincides with the period when most all major mental health conditions have their onset. My research seeks to understand the psychological and neuropsychological mechanisms underlying social functioning. I use a framework informed by cognitive and social psychology as well as developmental neurobiology, which informs the use of experimental paradigms to define mechanisms as well as the examination of behavior and dispositional traits in relation to the environment and neurobiology across development. 
+Currently available treatments for youth prone to profound social impairments are ineffective. It is my mission to understand how to better help these youth while also understanding more about how healthy social functioning looks like across adolescents and into adulthood. In this vein, I leverage functional magnetic resonance imaging (fMRI) with advanced statistical modeling to assess neural functioning within brain networks both cross sectionally and longitudinally. My overarching goal is to identify and refine mechanisms that can be used to inform new evidenced-based interventions that bolster healthy social connections and overall mental health. 
+My research focuses on three complementary lines of research: (1) functional connectivity underlying social functioning in adolescents, (2) how disordered social functioning associates with mental health and antisocial behavior, and (3) the impact of neurocognitive function on social functioning in adolescents. 
+Primary topics examined under this research includes: callous-unemotional traits, empathy, theory of mind, prosocial behavior, antisocial behavior, and cognitive control. 
+Currently, I am a post-doctoral fellow at the University of Colorado in the department of Psychiatry under the Developmental Psychobiology Research Group T32 Program. I will be seeking new positions in August of 2022.
