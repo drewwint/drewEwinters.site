@@ -4,8 +4,8 @@ active: true
 author: admin
 widget_id: about
 headless: true
-weight: 20
-title: What does this do?
+weight: 100
+title: Research
 subtitle: "can you please wrok? "
 design:
   columns: "I dont see anything here working "
