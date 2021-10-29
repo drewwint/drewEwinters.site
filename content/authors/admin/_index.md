@@ -1,16 +1,16 @@
 ---
 role: Postdoctorl Fellow in Developmental Psychobiology
-avatar_filename: screenshot-2021-10-19-131028.png
+avatar_filename: avatar.png
 bio: My research interests include social cognition, cognitive control,
   quantitative methods, developmental psychobiology, cognitive neuroscience,
   open-science.
 interests:
-  - social cognition
-  - cognitive control
-  - quantitative methods
-  - developmental psychobiology
-  - cognitive neuroscience
-  - open-science
+  - Social Cognition
+  - Cognitive Control
+  - Quantitative Methods
+  - Developmental Psychobiology
+  - Social Neuroscience
+  - Open-Science
 social:
   - icon: envelope
     icon_pack: fas
