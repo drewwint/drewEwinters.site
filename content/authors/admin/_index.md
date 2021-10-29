@@ -30,6 +30,8 @@ social:
 organizations:
   - name: University of Colorado Anschutz Medical Campus
     url: https://www.cuanschutz.edu/
+  - name: Developmental Psychobiology Research Group
+    url: https://medschool.cuanschutz.edu/psychiatry/education/fellowships/developmental-psychobiology-research-group
 education:
   courses:
     - course: PhD in Social Work/ Quantitative Psychology Minor
