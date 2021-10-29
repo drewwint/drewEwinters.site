@@ -5,9 +5,12 @@ bio: My research interests include social cognition, cognitive control,
   quantitative methods, developmental psychobiology, cognitive neuroscience,
   open-science.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - social cognition
+  - cognitive control
+  - quantitative methods
+  - developmental psychobiology
+  - cognitive neuroscience
+  - open-science
 social:
   - icon: envelope
     icon_pack: fas
