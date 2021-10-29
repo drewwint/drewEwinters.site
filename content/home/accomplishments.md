@@ -32,6 +32,5 @@ weight: 50
 title: Accomplishments
 subtitle: null
 design:
-  columns: "2"
+  columns: ""
 ---
-I dont thisnk this will do anything/
