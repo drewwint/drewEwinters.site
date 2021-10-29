@@ -1,8 +1,9 @@
 ---
 role: Postdoctorl Fellow in Developmental Psychobiology
 avatar_filename: screenshot-2021-10-19-131028.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include social cognition, cognitive control,
+  quantitative methods, developmental psychobiology, cognitive neuroscience,
+  open-science.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
