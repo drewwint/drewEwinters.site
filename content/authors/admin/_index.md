@@ -46,7 +46,7 @@ education:
 superuser: true
 highlight_name: true
 title: Drew E. Winters, PhD.
-email: drewEwinters@gmail.com
+email: drewewinters@gmail.com
 ---
 My mission is to understand how social psychological constructs and associated neural processes influence social behavior as they change over development. Specifically, I am interested in how interactions between socio-affective and neurocognitive functioning relate to mental health and contribute to antisocial phenotypes (e.g., callous-unemotional traits) across adolescence and into adulthood. 
 
