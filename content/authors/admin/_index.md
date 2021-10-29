@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Fellow in Developmental Psychobiology
-avatar_filename: avatar2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include social cognition, cognitive control,
   callous-unemotional traits, quantitative methods, developmental psychobiology,
   cognitive neuroscience, open-science.
