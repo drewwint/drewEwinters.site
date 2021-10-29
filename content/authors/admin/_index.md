@@ -38,8 +38,8 @@ education:
       year: 2019
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
-email: ""
+title: Drew E. Winters
+email: drewwin@hotmail.com
 ---
 Social information inundates our moment-to-moment experience. The way social information is identified, processed, and interpreted shapes the way one interacts with their social landscape, which can have a dramatic impact on their mental health and their social behavior. Social development is particularly important during adolescence when many of the brain systems underlying social psychological constructs (e.g., empathy, theory of mind) and supportive neurocognitive functions (e.g., cognitive control) are at a critical period of development that coincides with the period when most all major mental health conditions have their onset. My research seeks to understand the psychological and neuropsychological mechanisms underlying social functioning. I use a framework informed by cognitive and social psychology as well as developmental neurobiology, which informs the use of experimental paradigms to define mechanisms as well as the examination of behavior and dispositional traits in relation to the environment and neurobiology across development. 
 Currently available treatments for youth prone to profound social impairments are ineffective. It is my mission to understand how to better help these youth while also understanding more about how healthy social functioning looks like across adolescents and into adulthood. In this vein, I leverage functional magnetic resonance imaging (fMRI) with advanced statistical modeling to assess neural functioning within brain networks both cross sectionally and longitudinally. My overarching goal is to identify and refine mechanisms that can be used to inform new evidenced-based interventions that bolster healthy social connections and overall mental health. 
