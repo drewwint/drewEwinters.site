@@ -32,13 +32,13 @@ organizations:
     url: https://www.cuanschutz.edu/
 education:
   courses:
-    - course: PhD in Social Work Minoring in Quantitative Psychology
+    - course: PhD in Social Work/ Quantitative Psychology Minor
       institution: Indiana University
       year: 2020
     - course: MSW
       institution: Indiana University
       year: 2015
-    - course: BS in Human Services minoring in Psychology
+    - course: BS in Human Services/ Psychology Minor
       institution: Purdue University
       year: 2019
 superuser: true
