@@ -10,14 +10,7 @@ item:
     organization_url: https://www.datacamp.com
     title: Data Scientist in Python
     url: https://www.datacamp.com
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2021-10-15
-    description: 80 hour 4 week course
-    organization: ""
-    organization_url: ""
-    title: Certification in Multilevel Modeling II: Advanced Topics
-    url: ""
+
 
 widget_id: Accomplishments
 headless: true
