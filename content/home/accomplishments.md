@@ -12,9 +12,9 @@ item:
     url: https://www.datacamp.com
   - certificate_url: https://eitminstitute.org/
     date_end: ""
-    date_start: 2021-11-25
-    description: 88 hours 23 courses
-    organization: DataCamp
+    date_start: 2021-10-05
+    description: 80 hour 4 week course
+    organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/
     title: Multilevel Modeling II Advanced Topics
     url: https://eitminstitute.org/
