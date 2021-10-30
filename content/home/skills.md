@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: ""
   icon: chart-line
   icon_pack: fas
   name: Statistics
  
-- description: 100%
+- description: ""
   icon: flask
   icon_pack: fas
   name: Quantitative Research
  
-- description: 100%
+- description: ""
   icon: hands-helping
   icon_pack: fas
   name: Therapist
