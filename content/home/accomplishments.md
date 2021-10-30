@@ -2,7 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: ""
     date_end: ""
     date_start: 2021-11-25
     description: 88 hours 23 courses
@@ -10,7 +10,7 @@ item:
     organization_url: https://www.datacamp.com
     title: Data Scientist in Python
     url: https://www.datacamp.com
-  - certificate_url: https://eitminstitute.org/
+  - certificate_url: ""
     date_end: ""
     date_start: 2021-10-05
     description: 80 hour 4 week course
