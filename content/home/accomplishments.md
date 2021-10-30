@@ -20,14 +20,6 @@ item:
     title: Certification in Multilevel Modeling II Advanced Topics
     url: https://eitminstitute.org/
 
-  - certificate_url: https://eitminstitute.org/
-    date_end: https://eitminstitute.org/
-    date_start: 2021-10-05
-    description: 80 hour 4 week course
-    organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
-    title: Certification in Network Analysis II Advanced Topics
-    url: https://eitminstitute.org/
 
 
 
