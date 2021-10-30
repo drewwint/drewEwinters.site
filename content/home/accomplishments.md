@@ -16,7 +16,7 @@ item:
     date_start: 2021-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
+    organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Multilevel Modeling II Advanced Topics
     url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Poe--Multilevel%20Models%20II.pdf
 
