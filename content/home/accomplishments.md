@@ -17,7 +17,7 @@ item:
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Multilevel Modeling II Advanced Topics
-    url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Poe--Multilevel%20Models%20II.pdf
+    url: https://eitminstitute.org/
   - certificate_url: https://eitminstitute.org/
     date_end: https://eitminstitute.org/
     date_start: 2021-10-05
@@ -25,7 +25,7 @@ item:
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Network Analysis II Advanced Topics
-    url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Chyzh--Network%20Analysis%20II.pdf
+    url: https://eitminstitute.org/
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
     date_end: ""
     date_start: 2021-07-22
@@ -57,7 +57,7 @@ item:
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Structural Equation Models with Latent Variables
-    url: https://www.icpsr.umich.edu/files/sumprog/biblio/2018/secondsession/Structural%20Equation%20Models%20with%20Latent%20Variables%202018%20-%20Douglas%20Baer.pdf
+    url: https://eitminstitute.org/
 
 
 widget_id: Accomplishments
