@@ -14,7 +14,7 @@ item:
     date_end: ""
     date_start: 2021-07-22
     description: 120 hour 8 week course
-    organization: Neuromatch Academy
+    organization: neuromatch
     organization_url: https://academy.neuromatch.io/
     title: Complutational Neuroscience
     url: https://academy.neuromatch.io/
@@ -30,7 +30,7 @@ item:
     date_end: ""
     date_start: 2020-03-04
     description: 56 hours 14 courses
-    organization: edX
+    organization: DataCamp
     organization_url: https://www.edx.org
     title: Statistician in R
     url: https://www.datacamp.com
