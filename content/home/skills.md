@@ -29,7 +29,7 @@ feature:
 - description: 100%
   icon: hands-helping
   icon_pack: fas
-  name: Therepist
+  name: Therapist
 
 - description: 90%
   icon: r-project
