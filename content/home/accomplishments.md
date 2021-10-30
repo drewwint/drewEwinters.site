@@ -25,7 +25,7 @@ item:
     date_start: 2021-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
+    organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Network Analysis II Advanced Topics
     url: https://eitminstitute.org/
 
@@ -56,7 +56,7 @@ item:
     title: Statistician in R
     url: https://www.datacamp.com
 
-  - certificate_url: https://eitminstitute.org/
+  - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EQ0Oxs-sA_NOlM7YgMNWTvMBWifMAH9VEQVHi8lIsOYCDw?e=HXko26
     date_end: ""
     date_start: 2018-10-05
     description: 80 hour 4 week course
