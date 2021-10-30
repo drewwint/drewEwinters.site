@@ -33,7 +33,7 @@ feature:
 
 - description: 60%
   icon: brain
-  icon_pack: solid
+  icon_pack: Solid
   name: Neuroimaging
 
 
