@@ -61,7 +61,7 @@ item:
     date_start: 2018-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
+    organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Structural Equation Models with Latent Variables
     url: https://eitminstitute.org/
 
