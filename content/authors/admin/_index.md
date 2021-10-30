@@ -12,9 +12,9 @@ interests:
   - Social Neuroscience
   - Open-Science
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/drewwint/
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0701-9658
@@ -29,9 +29,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/drewwint
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/drewwint/
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: University of Colorado Anschutz Medical Campus
     url: https://www.cuanschutz.edu/
