@@ -21,6 +21,11 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=GmIdIyIAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Drew-Winters
+    icon_pack: fab
+    icon: researchgate
   - icon: github
     icon_pack: fab
     link: https://github.com/drewwint
