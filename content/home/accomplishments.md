@@ -9,7 +9,7 @@ item:
     organization: DataCamp
     organization_url: https://www.datacamp.com
     title: Data Scientist in Python
-    url: https://www.datacamp.com
+    url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
  
   - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EcSGgZIhUwNOhaGrE0AdFl8BFyjGEFoIi6gPzkmdkByZnw?e=auStkS
     date_end: ""
@@ -45,7 +45,7 @@ item:
     organization: DataCamp
     organization_url: https://www.datacamp.com
     title: Data Scientist in R
-    url: https://www.datacamp.com
+    url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-r?version=3
 
   - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/f98d98ac68b234e1afe42a8540de5c4a7fec7f2d
     date_end: ""
