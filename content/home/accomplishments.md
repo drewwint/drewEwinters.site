@@ -9,13 +9,13 @@ item:
     organization: DataCamp
     organization_url: https://www.datacamp.com
     title: Data Scientist in Python
-    url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
+    url: https://www.datacamp.com
   - certificate_url: https://eitminstitute.org/
     date_end: ""
     date_start: 2021-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/about-eitm/
+    organization_url: https://eitminstitute.org/
     title: Certification in Multilevel Modeling II Advanced Topics
     url: https://eitminstitute.org/
   - certificate_url: https://eitminstitute.org/
@@ -23,7 +23,7 @@ item:
     date_start: 2021-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/about-eitm/
+    organization_url: https://eitminstitute.org/
     title: Certification in Network Analysis II Advanced Topics
     url: https://eitminstitute.org/
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
@@ -55,7 +55,7 @@ item:
     date_start: 2018-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/about-eitm/
+    organization_url: https://eitminstitute.org/
     title: Certification in Structural Equation Models with Latent Variables
     url: https://eitminstitute.org/
 
