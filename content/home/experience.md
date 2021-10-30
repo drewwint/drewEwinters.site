@@ -25,15 +25,15 @@ experience:
   - title: Postdoctoral Fellow
     company: University of Colorado Anschutz Medical Campus
     company_url: https://www.cuanschutz.edu/
-    company_logo: org-gc
+    company_logo: ""
     location: Colorado
     date_start: '2020-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Research Design and implementation
-        * Statistical Analysis
+        * Research Design and Implementation
+        * Computational Modeling and Statistical Analysis
         * Grant Writing
         * Academic Publishing 
         
