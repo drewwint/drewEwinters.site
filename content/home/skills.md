@@ -31,17 +31,17 @@ feature:
   icon_pack: fas
   name: Therapist
 
-- description: 90%
+- description: ""
   icon: r-project
   icon_pack: fab
   name: R
   
-- description: 70%
+- description: ""
   icon: python
   icon_pack: fab
   name: Python
 
-- description: 60%
+- description: ""
   icon: brain
   icon_pack: fas
   name: Neuroimaging
