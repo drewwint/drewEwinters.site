@@ -13,7 +13,7 @@ item:
  
   - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EcSGgZIhUwNOhaGrE0AdFl8BFyjGEFoIi6gPzkmdkByZnw?e=auStkS
     date_end: ""
-    date_start: 2021-10-05
+    date_start: 2021-10-28
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
@@ -22,7 +22,7 @@ item:
 
   - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EcSGgZIhUwNOhaGrE0AdFl8BFyjGEFoIi6gPzkmdkByZnw?e=auStkS
     date_end: ""
-    date_start: 2021-10-05
+    date_start: 2021-10-28
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
