@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Fellow
     company: University of Colorado Anschutz Medical Campus
     company_url: https://www.cuanschutz.edu/
-    company_logo: University of Colorado
+    company_logo: university
     location: Colorado
     date_start: '2020-08-01'
     date_end: ''
