@@ -15,7 +15,7 @@ item:
     date_start: 2021-11-25
     description: 88 hours 23 courses
     organization: DataCamp
-    organization_url: https://www.datacamp.com
+    organization_url: https://eitminstitute.org/
     title: Data Scientist in Python
     url: https://www.datacamp.com
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
