@@ -11,7 +11,7 @@ item:
     title: Data Scientist in Python
     url: https://www.datacamp.com
  
-  - certificate_url: https://eitminstitute.org/
+  - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EcSGgZIhUwNOhaGrE0AdFl8BFyjGEFoIi6gPzkmdkByZnw?e=auStkS
     date_end: ""
     date_start: 2021-10-05
     description: 80 hour 4 week course
@@ -20,7 +20,7 @@ item:
     title: Certification in Multilevel Modeling II Advanced Topics
     url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Poe--Multilevel%20Models%20II.pdf
 
-  - certificate_url: https://eitminstitute.org/
+  - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EcSGgZIhUwNOhaGrE0AdFl8BFyjGEFoIi6gPzkmdkByZnw?e=auStkS
     date_end: ""
     date_start: 2021-10-05
     description: 80 hour 4 week course
