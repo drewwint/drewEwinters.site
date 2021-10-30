@@ -14,7 +14,7 @@ item:
     date_end: ""
     date_start: 2021-07-22
     description: 120 hour 8 week course
-    organization: neuromatch
+    organization: neuromatch academy
     organization_url: https://academy.neuromatch.io/
     title: Complutational Neuroscience
     url: https://academy.neuromatch.io/
