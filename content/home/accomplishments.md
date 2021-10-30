@@ -9,23 +9,23 @@ item:
     organization: DataCamp
     organization_url: https://www.datacamp.com
     title: Data Scientist in Python
-    url: https://www.datacamp.com
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2021-10-05
-    description: 80 hour 4 week course
-    organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
-    title: Certification in Multilevel Modeling II Advanced Topics
-    url: https://eitminstitute.org/
+    url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
   - certificate_url: https://eitminstitute.org/
     date_end: ""
     date_start: 2021-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
+    organization_url: https://eitminstitute.org/about-eitm/
+    title: Certification in Multilevel Modeling II Advanced Topics
+    url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Poe--Multilevel%20Models%20II.pdf
+  - certificate_url: https://eitminstitute.org/
+    date_end: https://eitminstitute.org/
+    date_start: 2021-10-05
+    description: 80 hour 4 week course
+    organization: Emperical Implications of Theoretical Models (EITM)
+    organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Network Analysis II Advanced Topics
-    url: https://eitminstitute.org/
+    url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Chyzh--Network%20Analysis%20II.pdf
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
     date_end: ""
     date_start: 2021-07-22
@@ -55,9 +55,9 @@ item:
     date_start: 2018-10-05
     description: 80 hour 4 week course
     organization: Emperical Implications of Theoretical Models (EITM)
-    organization_url: https://eitminstitute.org/
+    organization_url: https://eitminstitute.org/about-eitm/
     title: Certification in Structural Equation Models with Latent Variables
-    url: https://eitminstitute.org/
+    url: https://www.icpsr.umich.edu/files/sumprog/biblio/2018/secondsession/Structural%20Equation%20Models%20with%20Latent%20Variables%202018%20-%20Douglas%20Baer.pdf
 
 
 widget_id: Accomplishments
