@@ -14,7 +14,7 @@ item:
     date_end: ""
     date_start: 2021-11-25
     description: 88 hours 23 courses
-    organization: Emperical Implications of Theoretical Models
+    organization: DataCamp
     organization_url: ""
     title: Certification in Multilevel Modeling II: Advanced Topics
     url: ""
