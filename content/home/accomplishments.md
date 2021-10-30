@@ -10,14 +10,14 @@ item:
     organization_url: https://www.datacamp.com
     title: Data Scientist in Python
     url: https://www.datacamp.com
-  - certificate_url: https://eitminstitute.org/
+  - certificate_url: ""
     date_end: ""
     date_start: 2021-10-15
     description: 80 hour 4 week course
     organization: Emperical Implication of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/
     title: Certification in Multilevel Modeling II: Advanced Topics
-    url: https://eitminstitute.org/
+    url: ""
 
 widget_id: Accomplishments
 headless: true
