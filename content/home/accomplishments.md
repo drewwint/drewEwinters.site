@@ -17,7 +17,7 @@ item:
     organization: DataCamp
     organization_url: https://eitminstitute.org/
     title: Data Scientist in Python
-    url: https://www.datacamp.com
+    url: https://eitminstitute.org/
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
     date_end: ""
     date_start: 2021-07-22
