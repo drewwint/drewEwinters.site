@@ -39,7 +39,7 @@ experience:
 
 
   - title: Director
-    company: ASCEND Lab (*A*ffective *S*ocial *C*ognition, *E*motion, and *N*euroscience - *D*evelopmental psychobiology)
+    company: ASCEND Lab (**A**ffective **S**ocial **C**ognition, **E**motion, and **N**euroscience - **D**evelopmental psychobiology)
     company_url: ''
     company_logo: ""
     location: Aurora, CO
