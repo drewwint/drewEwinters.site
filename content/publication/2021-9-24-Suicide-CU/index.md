@@ -5,7 +5,7 @@ Authors:
 - '**Winters, D.E.**'
 - 'Mikulich, S.K.'
 - 'Hopfer, C.'
-- 'Sakai, J.T.'
+- '& Sakai, J.T.'
 date: 2021-09-15T00:00:00
 doi: "10.1007/s10578-021-01256-w"
 
