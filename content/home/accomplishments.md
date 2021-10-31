@@ -8,7 +8,7 @@ item:
     description: 88 hours 23 courses
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: Data Scientist in Python Certification
+    title: Data Scientist in Python
     url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
  
   - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EcSGgZIhUwNOhaGrE0AdFl8BFyjGEFoIi6gPzkmdkByZnw?e=auStkS
@@ -44,7 +44,7 @@ item:
     description: 89 hours 22 courses
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: Data Scientist in R Certification
+    title: Data Scientist in R
     url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-r?version=3
 
   - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/f98d98ac68b234e1afe42a8540de5c4a7fec7f2d
@@ -53,7 +53,7 @@ item:
     description: 56 hours 14 courses
     organization: DataCamp
     organization_url: https://www.edx.org
-    title: Statistician in R Certification
+    title: Statistician in R
     url: https://www.datacamp.com
 
   - certificate_url: https://olucdenver-my.sharepoint.com/:b:/g/personal/drew_winters_cuanschutz_edu/EQ0Oxs-sA_NOlM7YgMNWTvMBWifMAH9VEQVHi8lIsOYCDw?e=HXko26
