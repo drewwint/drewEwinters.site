@@ -66,8 +66,8 @@ experience:
     description: Statistical analyses for for the state of Indiana Child Welfare Services
 
   - title: Adjunct Professor
-    company: Indiana University
-    company_url: ''
+    company: Indiana University School of Social Work
+    company_url: https://socialwork.iupui.edu/about/
     company_logo: ""
     location: Indianapolis, IN
     date_start: '2017-08-01'
@@ -79,7 +79,23 @@ experience:
         * S728 Advanced Statistics
         * S623 Practice Research
 
+  - title: Teaching Assistant
+    company: University of Michigan - ICPSR Summer Statistics Program
+    company_url: https://www.icpsr.umich.edu/web/pages/sumprog/index.html
+    company_logo: ""
+    location: Ann Arbor, MI
+    date_start: '2019-7-01'
+    date_end: '2020-07-01'
+    description: Regression II Advanced Topics
 
+  - title: Therapist
+    company: Family Works Inc.
+    company_url: https://www.family-works-inc.com/
+    company_logo: ""
+    location: Indianapolis, IN
+    date_start: '2016-07-01'
+    date_end: '2020-03-01'
+    description: Home based therapist.
 
 
 design:
