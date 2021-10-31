@@ -57,13 +57,28 @@ experience:
     description: ENCOMPASS program therapist.
 
   - title: Statistician 
-    company: Indiana University
-    company_url: ''
+    company: Indiana University School of Medicine
+    company_url: https://medicine.iu.edu/pediatrics/specialties/adolescent-medicine
     company_logo: ""
     location: Indianapolis, IN
     date_start: '2016-08-01'
     date_end: '2020-08-01'
     description: Statistical analyses for for the state of Indiana Child Welfare Services
+
+  - title: Adjunct Professor
+    company: Indiana University
+    company_url: ''
+    company_logo: ""
+    location: Indianapolis, IN
+    date_start: '2017'
+    date_end: '2020-08-01'
+    description: |2-
+        Classes taught include:
+        
+        * S718 Intermediate Statistics
+        * S728 Advanced Statistics
+        * S623 Practice Research
+
 
 
 
