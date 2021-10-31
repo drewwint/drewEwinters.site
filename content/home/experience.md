@@ -39,13 +39,13 @@ experience:
 
 
   - title: Director
-    company: ASCEND Lab (**A**ffective **S**ocial **C**ognition, **E**motion, and **N**euroscience - **D**evelopmental psychobiology)
+    company: ASCEND Lab (**A**ffective **S**ocial **C**ognition, **E**motion, and **N**euroscience - **D**evelopmental psychobiology Lab)
     company_url: ''
     company_logo: ""
     location: Aurora, CO
     date_start: '2020-08-01'
     date_end: ''
-    description: Lab dedicated to understanding social processes and  associated neural mechanisms across development with an emphasis on understanidng associations with mental health and antisocial behavior.
+    description: Lab dedicated to understanding social processes and associated neural mechanisms across development with an emphasis on understanidng associations with mental health and antisocial behavior.
 
   - title: Therapist
     company: University of Colorado Health
@@ -63,7 +63,7 @@ experience:
     location: Indianapolis, IN
     date_start: '2016-08-01'
     date_end: '2020-08-01'
-    description: Statistical analyses for for the state of Indiana Child Welfare Services
+    description: Statistical analyses for the State of Indiana Child Welfare Services
 
   - title: Adjunct Professor
     company: Indiana University School of Social Work
@@ -95,7 +95,7 @@ experience:
     location: Indianapolis, IN
     date_start: '2016-07-01'
     date_end: '2020-03-01'
-    description: Home based therapist.
+    description: Home based therapist for Indiana Child Welfare Services.
 
 
 design:
