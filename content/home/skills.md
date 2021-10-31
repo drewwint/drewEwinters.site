@@ -25,11 +25,11 @@ feature:
   icon: flask
   icon_pack: fas
   name: Quantitative Research
- 
+  
 - description: ""
-  icon: hands-helping
+  icon: brain
   icon_pack: fas
-  name: Therapist
+  name: Neuroimaging
 
 - description: ""
   icon: r-project
@@ -40,11 +40,11 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-
+ 
 - description: ""
-  icon: brain
+  icon: hands-helping
   icon_pack: fas
-  name: Neuroimaging
+  name: Psychotherapy
 
 
 # Uncomment to use emoji icons.
