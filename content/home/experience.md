@@ -36,14 +36,23 @@ experience:
         * Computational Modeling and Statistical Analysis
         * Grant Writing
         * Academic Publishing 
-        
+
+  - title: Director
+    company: ASCEND Lab (*A*ffective *S*ocial *C*ognition, *E*motion, and *N*euroscience - *D*evelopmental psychobiology)
+    company_url: ''
+    company_logo: ""
+    location: Colorado
+    date_start: '2020-08-01'
+    date_end: ''
+    description: Lab dedicated to understanding social functioning and mechanisms underlying impairments across development
+
   - title: Therapist
     company: University of Colorado Health
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: ""
+    location: Colorado
+    date_start: '2020-08-01'
+    date_end: '2021-08-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
