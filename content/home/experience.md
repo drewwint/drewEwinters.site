@@ -45,7 +45,17 @@ experience:
     location: Aurora, CO
     date_start: '2020-08-01'
     date_end: ''
-    description: Lab dedicated to understanding social functioning and neural mechanisms underlying these processes across development with an emphasis on understanidng associations with mental health and antisocial behavior.
+    description: Lab dedicated to understanding social processes and  associated neural mechanisms across development with an emphasis on understanidng associations with mental health and antisocial behavior.
+
+  - title: Therapist
+    company: University of Colorado Health
+    company_url: ''
+    company_logo: ""
+    location: Aurora, CO
+    date_start: '2020-08-01'
+    date_end: '2021-08-01'
+    description: ENCOMPASS program therapist.
+
 
 
 
