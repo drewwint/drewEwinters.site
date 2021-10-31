@@ -55,7 +55,7 @@ url_OSF: ''
 image:
   caption: ''
   focal_point: "top"
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
