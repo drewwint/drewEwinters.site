@@ -56,7 +56,7 @@ experience:
     date_end: '2021-08-01'
     description: ENCOMPASS program therapist.
 
-  - title: Statistician 
+  - title: Statistician / Research Analyst
     company: Indiana University School of Medicine
     company_url: https://medicine.iu.edu/pediatrics/specialties/adolescent-medicine
     company_logo: ""
