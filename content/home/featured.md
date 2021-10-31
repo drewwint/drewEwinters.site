@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: "neuro"
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: Drew E. Winters, Joseph T. Sakai
     category: ""
     publication_type: ""
     tag: ""
