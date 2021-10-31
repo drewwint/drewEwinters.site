@@ -63,7 +63,7 @@ experience:
     location: Indianapolis, IN
     date_start: '2016-08-01'
     date_end: '2020-08-01'
-    description: I conducted statistical analyses for for the state of Indiana's Child Welfare Services
+    description: I conducted statistical analyses for for the state of Indiana Child Welfare Services
 
   - title: Adjunct Professor
     company: Indiana University
