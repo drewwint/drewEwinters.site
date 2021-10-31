@@ -38,6 +38,17 @@ experience:
         * Academic Publishing 
 
 
+  - title: Director
+    company: ASCEND Lab (*A*ffective *S*ocial *C*ognition, *E*motion, and *N*euroscience - *D*evelopmental psychobiology)
+    company_url: ''
+    company_logo: ""
+    location: Aurora, CO
+    date_start: '2020-08-01'
+    date_end: ''
+    description: Lab dedicated to understanding social functioning and neural mechanisms underlying these processes across development with an emphasis on understanidng associations with mental health and antisocial behavior.
+
+
+
 design:
   columns: '2'
 ---
