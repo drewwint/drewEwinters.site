@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s10578-021-01256-w#citeas
+url_pdf: https://link.springer.com/content/pdf/10.1007/s10578-021-01256-w.pdf
 url_preprint: ''
 url_code: ''
 url_dataset: ''
