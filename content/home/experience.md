@@ -84,7 +84,7 @@ experience:
     company_url: https://www.icpsr.umich.edu/web/pages/sumprog/index.html
     company_logo: ""
     location: Ann Arbor, MI
-    date_start: '2019-7-01'
+    date_start: '2019-07-01'
     date_end: '2020-07-01'
     description: Regression II Advanced Topics
 
