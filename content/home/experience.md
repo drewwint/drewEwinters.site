@@ -70,7 +70,7 @@ experience:
     company_url: ''
     company_logo: ""
     location: Indianapolis, IN
-    date_start: '2017'
+    date_start: '2017-08-01'
     date_end: '2020-08-01'
     description: |2-
         Classes taught include:
