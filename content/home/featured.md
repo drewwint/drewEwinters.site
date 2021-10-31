@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: "Drew E. Winters, Joseph T. Sakai"
+    author: ""
     category: ""
     publication_type: ""
     tag: ""
