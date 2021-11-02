@@ -73,7 +73,7 @@ projects: []
 slides: 
 ---
 **Citation:**  
-Winters, Drew E., Susan K. Mikulich, Christian Hopfer, & Joseph T. Sakai. (2021) Adolescents in treatment for substance use disorders: callous-unemotional traits moderate associations between transdiagnostic symptoms and adolescent suicidality. Child Psychiatry & Human Development: 1-9.
+Winters, D.E., Mikulich, S.K., Hopfer, C., & Sakai, J.T. (2021) Adolescents in treatment for substance use disorders: callous-unemotional traits moderate associations between transdiagnostic symptoms and adolescent suicidality. Child Psychiatry & Human Development: 1-9.
 
 
 
