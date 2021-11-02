@@ -1,50 +1,45 @@
 ---
 
-title: 'Cognitive and Affective Empathy as Indirect Paths Between Heterogeneous Depression Symptoms on Default Mode and Salience Network Connectivity in Adolescents'
+title: 'tt-state network topology characterizing callous-unemotional traits in adolescence'
 Authors: 
-- Drew E Winters
-- Patrick J Pruitt 
-- Malgorzata Gambin
-- Sadaaki Fukui
-- Melissa A Cyders 
-- Barbara J Pierce 
-- Kathy Lay
-- Jessica S Damoiseaux
+- Winters, D.E.
+- Sakai, J.T.
+- "& Carter, M.R."
 
-date: 2021-09-13T00:00:00
-doi: "10.1007/s10578-021-01242-2"
+date: 2021-11-01T00:00:00
+doi: "10.1101/2021.08.27.457946"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-09-13T00:00:00"
+publishDate: "2021-11-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Child Psychiatry & Human Development*"
+publication: "*Submitted*"
 publication_short: ""
 
-abstract: Depression amongst adolescents is a prevalent disorder consisting of heterogeneous emotional and functional symptoms—often involving impairments in social domains such as empathy. Cognitive and affective components of empathy as well as their associated neural networks (default mode network for cognitive empathy and salience network for affective empathy) are affected by depression. Depression commonly onsets during adolescence, a critical period for brain development underlying empathy. However, the available research in this area conceptualizes depression as a homogenous construct, and thereby miss to represent the full spectrum of symptoms. The present study aims to extend previous literature by testing whether cognitive and affective empathy indirectly account for associations between brain network connectivity and heterogeneous depression symptoms in adolescents. Heterogeneous functional and emotional symptoms of depression were measured using the child depression inventory. Our results indicate that cognitive empathy mediates the association between default mode network functional connectivity and emotional symptoms of depression. More specifically, that adolescents with a stronger positive association between the default mode network and cognitive empathy show lower emotional depression symptoms. This finding highlights the importance of cognitive empathy in the relationship between brain function and depression symptoms, which may be an important consideration for existing models of depression in adolescents.
+abstract: Background Callous-unemotional (CU) traits, a youth antisocial phenotype, are hypothesized to associate with aberrant connectivity (dis-integration) across the salience (SAL), default mode (DMN), and frontoparietal (FPN) networks. However, CU traits have a heterogeneous presentation and previous research has not modeled individual heterogeneity in resting-state connectivity amongst adolescents with CU traits. The present study models individual-specific network maps and examines topological features of individual and subgroup maps in relation to CU traits. Methods Participants aged 13-17 completed resting-state functional connectivity and the inventory of callous-unemotional traits as part of the Nathan Klein Rockland study. A sparse network approach (GIMME) was used to derive individual-level and subgroup maps of all participants. We then examined heterogeneous network features associated with CU traits. Results Higher rates of CU traits increased probability of inclusion in one subgroup, which had the highest mean level of CU traits. Analysis of network features reveals less density within the FPN and greater density between DMN-FPN associated with CU traits. Discussion Findings indicate heterogeneous person-specific connections and some subgroup connections amongst adolescents associate with CU traits. Higher CU traits associate with lower density in the FPN, which has been associated with attention and inhibition, and higher density between the DMN-FPN, which have been linked with cognitive control, social working memory, and empathy. Our findings suggest less efficiency in FPN function which, when considered mechanistically, could result in difficulty suppressing DMN when task positive networks are engaged. This is an area for further exploration but could explain cognitive and socio-affective impairments in CU traits. 
 
 # Summary. An optional shortened abstract.
-summary: This study tested to what extent that cognitive and affective empathy accounted for the relatoinship between functoinal connectivity of adolescent brains and heterogenous depressive symptoms. This study revealed that the default mode network underlies emotoinal depressive symptoms and this is partially explained by differences cognitive empathy.
+summary: We used a novel connectivity method to examine network topology in adolescent brains and how connection density and node centrality was different in the presence of callous-unemotional traits. 
 
 tags:
-- Cognitive empathy 
-- Affective empathy 
-- Functional connectivity 
-- Depression 
-- Adolescence
+- callous-unemotional traits
+- adolescence
+- network topology
+- fMRI 
+featured: true
 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_preprint: ''
+url_pdf: https://www.biorxiv.org/content/10.1101/2021.08.27.457946v1.full.pdf
+url_preprint: https://www.biorxiv.org/content/10.1101/2021.08.27.457946v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -77,7 +72,7 @@ projects: []
 slides: 
 ---
 **Citation:**  
-Winters, D.E., Pruitt, P.J., Gambin, M. et al. Cognitive and Affective Empathy as Indirect Paths Between Heterogeneous Depression Symptoms on Default Mode and Salience Network Connectivity in Adolescents. Child Psychiatry Hum Dev (2021). https://doi.org/10.1007/s10578-021-01242-2
+Winters, D. E., Sakai, J. T., & Carter, M. R. (2021). Resting-state network topology characterizing callous-unemotional traits in adolescence. bioRxiv.
 
 
 
