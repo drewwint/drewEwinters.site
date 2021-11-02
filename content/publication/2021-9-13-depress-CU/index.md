@@ -2,7 +2,14 @@
 
 title: 'Cognitive and Affective Empathy as Indirect Paths Between Heterogeneous Depression Symptoms on Default Mode and Salience Network Connectivity in Adolescents'
 Authors: 
-- admin
+- Drew E Winters
+- Patrick J Pruitt 
+- Malgorzata Gambin
+- Sadaaki Fukui
+- Melissa A Cyders 
+- Barbara J Pierce 
+- Kathy Lay
+- Jessica S Damoiseaux
 
 date: 2021-09-13T00:00:00
 doi: "10.1007/s10578-021-01242-2"
@@ -24,53 +31,6 @@ abstract: Depression amongst adolescents is a prevalent disorder consisting of h
 
 # Summary. An optional shortened abstract.
 summary: This study tested to what extent that cognitive and affective empathy accounted for the relatoinship between functoinal connectivity of adolescent brains and heterogenous depressive symptoms. This study revealed that the default mode network underlies emotoinal depressive symptoms and this is partially explained by differences cognitive empathy.
-
-tags:
-- Cognitive empathy 
-- Affective empathy 
-- Functional connectivity 
-- Depression 
-- Adolescence
-
-
-# links:
-# - name: ""
-#   url: ""
-url_pdf: ''
-url_preprint: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-url_OSF: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: "top"
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: 
----
-**Citation:**  
-Winters, D.E., Pruitt, P.J., Gambin, M. et al. Cognitive and Affective Empathy as Indirect Paths Between Heterogeneous Depression Symptoms on Default Mode and Salience Network Connectivity in Adolescents. Child Psychiatry Hum Dev (2021). https://doi.org/10.1007/s10578-021-01242-2
 
 
 
