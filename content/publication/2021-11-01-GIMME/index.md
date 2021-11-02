@@ -1,6 +1,6 @@
 ---
 
-title: 'Cognitive and Affective Empathy as Indirect Paths Between Heterogeneous Depression Symptoms on Default Mode and Salience Network Connectivity in Adolescents'
+title: 'Resting-state network topology characterizing callous-unemotional traits in adolescence'
 Authors: 
 - Winters, D.E.
 - Sakai, J.T.
