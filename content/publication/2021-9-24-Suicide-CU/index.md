@@ -2,7 +2,7 @@
 
 title: 'Adolescents in treatment for substance use disorders: callous-unemotional traits moderate associations between transdiagnostic symptoms and adolescent suicidality'
 Authors: 
-- Winters, D.E.
+- 'Winters, D.E.'
 - Mikulich, S.K.
 - Hopfer, C.
 - & Sakai, J.T.
