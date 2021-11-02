@@ -19,7 +19,7 @@ publishDate: "2021-09-15T00:00:00"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Child Psychiatry & Human Development*"
+publication: "Child Psychiatry & Human Development"
 publication_short: ""
 
 abstract: Suicide, a common cause of death in adolescents, is linked to internalizing and externalizing symptoms. These associations are pronounced amongst adolescents who use substances. But these relationships are complex. For example, sex differences are present in association with internalizing/externalizing symptoms as well as differences in suicidality. A rarely explored factor that may account for this complexity as a moderator is callous-unemotional traits. The present study examines associations of internalizing and externalizing in relation to suicidality in the context of callous-unemotional traits amongst adolescents in substance use treatment. Additionally, sex differences were explored. A sample of 317 adolescents (13–18; 16.05 ± 1.22) in treatment for substance use completed measures for internalizing, externalizing, and suicidal symptoms. The main result suggested the presence of callous-unemotional (CU) traits attenuated the positive association between internalizing and a latent suicidality factor. This novel result contextualizes the association between transdiagnostic symptoms and suicidality. Assessing CU traits in the presence of internalizing symptoms may be an important component of understanding suicide risk amongst adolescents in treatment for substance use. 
