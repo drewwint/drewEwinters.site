@@ -7,11 +7,12 @@ Authors:
 - Sakai, J.T.
 - "& Carter, M.R."
 
-date: 2021-11-01T00:00:00
-doi: "10.1101/2021.08.27.457946"
+date: 2021-09-13T00:00:00
+doi: "10.1007/s10578-021-01242-2"
+
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-01T00:00:00"
+publishDate: "2021-09-13T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
