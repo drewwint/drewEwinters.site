@@ -3,14 +3,14 @@
 title: 'Cognitive and Affective Empathy as Indirect Paths Between Heterogeneous Depression Symptoms on Default Mode and Salience Network Connectivity in Adolescents'
 
 Authors: 
-- "**Drew E Winters**"
-- Patrick J Pruitt 
+- **Drew E. Winters**
+- Patrick J. Pruitt 
 - Malgorzata Gambin
 - Sadaaki Fukui
-- Melissa A Cyders 
-- Barbara J Pierce 
+- Melissa A. Cyders 
+- Barbara J. Pierce 
 - Kathy Lay
-- "& Jessica S Damoiseaux"
+- "& Jessica S. Damoiseaux"
 
 
 date: 2021-09-13T00:00:00
