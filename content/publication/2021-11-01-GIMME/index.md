@@ -2,9 +2,9 @@
 
 title: 'Resting-state network topology characterizing callous-unemotional traits in adolescence'
 Authors: 
-- Winters, D.E.
-- Sakai, J.T.
-- "& Carter, M.R."
+- Drew E Winters
+- Joseph T Sakai
+- "& R McKell Carter"
 
 date: 2021-11-01T00:00:00
 doi: "10.1101/2021.08.27.457946"
