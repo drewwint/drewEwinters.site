@@ -10,7 +10,7 @@ Authors:
 - Melissa A Cyders 
 - Barbara J Pierce 
 - Kathy Lay
-- Jessica S Damoiseaux
+- "& Jessica S Damoiseaux"
 
 
 date: 2021-09-13T00:00:00
