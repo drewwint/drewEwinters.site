@@ -59,4 +59,5 @@ To understand these phenomena, I use functional neuroimaging, network science, a
  
 I am currently a postdoctoral fellow in the NIMH-funded T32 postdoctoral training program in Developmental Psychobiology at the University of Colorado Anschutz Medical Campus. 
 
-Download my CV here {uploads/DWinters_CV_11-21.pdf}
+Download my CV here 
+- CV:uploads/DWinters_CV_11-21.pdf
