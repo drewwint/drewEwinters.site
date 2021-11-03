@@ -13,7 +13,7 @@ interests:
   - Quantitative Methods
   - Developmental Psychobiology
   - Social Neuroscience
-  - Open-Science
+  - Open Science
 social:
   - icon: linkedin
     icon_pack: fab
