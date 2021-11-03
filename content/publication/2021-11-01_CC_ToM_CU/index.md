@@ -2,7 +2,7 @@
 
 title: 'Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control: A pilot study'
 Authors: 
-- Drew E. Winters
+- "**Drew E. Winters**"
 - "& Joseph T. Sakai" 
 
 date: 2021-11-01T00:00:00
@@ -51,7 +51,7 @@ url_OSF: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "**top left**: baseline assocaition between affective ToM and CU traits; **top right**: assocaition between maximum cognitive control and CU traits; **bottom left**: change in complex affective ToM from before to after a cognitive load as a function of *total CU traits*; **bottom right**: change in complex affective ToM from before to after a cognitive load as a function of the subscale *unemotoinal traits* "
+  caption: "**TOP LEFT**: baseline assocaition between affective ToM and CU traits; **TOP RIGHT**: assocaition between maximum cognitive control and CU traits; **BOTTOM LEFT**: change in complex affective ToM from before to after a cognitive load as a function of *total CU traits*; **BOTTOM RIGHT**: change in complex affective ToM from before to after a cognitive load as a function of the subscale *unemotoinal traits* "
   focal_point: "top"
   preview_only: false
 
