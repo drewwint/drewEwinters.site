@@ -74,7 +74,7 @@ slides:
 **Citation:**  
 Winters, D. E., Sakai, J. T., & Carter, M. R. (2021). Resting-state network topology characterizing callous-unemotional traits in adolescence. bioRxiv.
 
-
+Supplementry Material [PDF](https://www.biorxiv.org/content/10.1101/2021.08.27.457946v1.supplementary-material)
 
 
 
