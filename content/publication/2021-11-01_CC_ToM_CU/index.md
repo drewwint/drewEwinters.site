@@ -29,7 +29,7 @@ summary: This origional data collection (PI Winters) tests the impact of cogniti
 tags:
 - callous-unemotional traits
 - adolescence
-- cognitive control, 
+- cognitive control
 - affective theory of mind
 featured: true
 
