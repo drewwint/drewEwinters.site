@@ -56,10 +56,10 @@ highlight_name: true
 title: Drew E. Winters, PhD.
 email: drewewinters@gmail.com
 ---
-My mission is to understand how social psychological processes and associated neural processes influence social behavior as they change over development. Specifically, I am interested in how interactions between socio-affective and neurocognitive functioning relate to mental health and contribute to antisocial phenotypes (e.g., callous-unemotional traits) across adolescence and into adulthood. 
+My mission is to understand how social functioning and associated neural processes influence mental health and social behavior as they change over development. Specifically, I am interested in how interactions between socio-affective and neurocognitive functioning relate to mental health and contribute to antisocial phenotypes (e.g., callous-unemotional traits) across adolescence and into adulthood.
 
 To understand these phenomena, I use functional neuroimaging, network science, as well as computational and longitudinal models. I am interested in how to apply these methods to improve statistical inference and leveraging these methods to identify mechanisms using an open-science framework. My overall goal is to define replicable neural mechanisms underlying neurocognitive and socio-affective impairments associated with youth antisocial phenotypes that could be used to design and test the efficacy of new interventions for these youth.
- 
+
 I am currently a postdoctoral fellow in the NIMH-funded T32 postdoctoral training program in Developmental Psychobiology at the University of Colorado Anschutz Medical Campus. 
 
 **Download my CV** [here](https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/DWinters_CV_11-21.pdf)
