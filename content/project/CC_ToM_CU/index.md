@@ -14,7 +14,7 @@ date: "2021-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
+  caption: "**Figure 1**. Individual-level associations across all participants with callous-unemotional traits. A. Depiction off all potential connections in the frontoparietal network (FPN); B. Association between positive connections within the FPN; C. Depiction of all possible connections between default mode-frontoparietal networks (DMN-FPN); D. Association between CU traits and positive connections between DMN-FPN. Node: blue = DMN, red = salience network (SAL), green = FPN.;**Figure 2**. Group-level associations of subgroup two with callous-unemotional traits. A. Depiction of the shared connections for subgroup two. Size of spherical nodes indicate within network centrality (bigger node spheres = more centrality) and size of edges indicate connection density (thicker connection = more density); B. Depicting probability of subgroup inclusion in the presence of total callous-unemotional traits; C. Depicting the heterogeneity of all unshared connections in subgroup 2; D. Mean differences in CU traits by GIMME identified network subgroup. Note: only significant pairwise tests are shown. Node colors: blue = default mode network, red = salience network, green = frontoparietal network."
   focal_point: Smart
 
 links:
