@@ -60,7 +60,7 @@ item:
     url: https://www.icpsr.umich.edu/files/sumprog/biblio/2018/secondsession/Structural%20Equation%20Models%20with%20Latent%20Variables%202018%20-%20Douglas%20Baer.pdf
 widget_id: Accomplishments
 headless: true
-weight: 40
+weight: 60
 title: Certifications
 subtitle: null
 design:
