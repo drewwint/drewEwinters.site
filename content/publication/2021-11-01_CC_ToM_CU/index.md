@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/content/publication/2021-11-01_CC_ToM_CU/CC_ToM/CC_ToM_preprint.pdf
 url_preprint: https://psyarxiv.com/stwj8/
 url_code: ''
 url_dataset: ''
