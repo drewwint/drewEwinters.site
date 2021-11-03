@@ -58,3 +58,5 @@ My mission is to understand how social psychological constructs and associated n
 To understand these phenomena, I use functional neuroimaging, network science, as well as computational and longitudinal models. I am interested in how to apply these methods to improve statistical inference and leveraging these methods to identify mechanisms using an open-science framework. My overall goal is to define replicable neural mechanisms underlying neurocognitive and socio-affective impairments associated with youth antisocial phenotypes that could be used to design and test the efficacy of new interventions for these youth.
  
 I am currently a postdoctoral fellow in the NIMH-funded T32 postdoctoral training program in Developmental Psychobiology at the University of Colorado Anschutz Medical Campus. 
+
+Download my CV here url:uploads/DWinters_CV_11-21.pdf
