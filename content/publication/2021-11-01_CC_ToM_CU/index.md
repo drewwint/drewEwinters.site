@@ -27,10 +27,10 @@ abstract: Affective theory of mind (aToM) impairments predict antisocial behavio
 summary: This origional data collection (PI Winters) tests the impact of cognitive control on affective theory of mind in a sample of early adolescents that vary on callous-unemotional traits.
 
 tags:
-- callous-unemotional traits
-- adolescence
-- cognitive control
-- affective theory of mind
+- Callous-Unemotional Traits
+- Adolescence
+- Cognitive Control
+- Theory of Mind
 featured: true
 
 
