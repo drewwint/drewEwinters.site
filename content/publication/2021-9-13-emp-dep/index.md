@@ -37,9 +37,9 @@ summary: To understand brain and empathy connection with adolescent depression, 
 
 
 tags:
-- Cognitive empathy 
-- Affective empathy 
-- Functional connectivity 
+- Cognitive Empathy 
+- Affective Empathy 
+- Functional Connectivity 
 - Depression 
 - Adolescence
 
