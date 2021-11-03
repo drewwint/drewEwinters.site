@@ -39,7 +39,8 @@ tags:
 - Adolescence
 - Cognitive empathy
 - Affective empathy
-- Functional connectivity
+- Functional Connectivity
+- fMRI
 
 featured: true
 
