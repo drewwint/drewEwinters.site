@@ -1,6 +1,6 @@
 ---
 
-title: 'Network functional connectivity underlying dissociable cognitive and affective components of empathy in adolescence'
+title: 'Longitudinal Effects of Cognitive and Affective Empathy on Adolescent Substance Use'
 
 Authors: 
 - Drew E. Winters
@@ -9,7 +9,7 @@ Authors:
 
 
 date: 2020-02-11T00:00:00
-doi: "10.1016/j.neuropsychologia.2021.107832"
+doi: "10.1080/10826084.2020.1717537"
 
 
 # Schedule page publish date (NOT publication's date).
