@@ -9,11 +9,11 @@ bio: My research interests include mental and social health as well as their
 interests:
   - Social Cognition
   - Cognitive Control
-  - Callous-Unemotional Traits
+  - Antisocial Phenotypes
   - Quantitative Methods
   - Developmental Psychobiology
-  - Social Cognitive Neuroscience
-  - Open-Science.
+  - Social Neuroscience
+  - Open-Science
 social:
   - icon: linkedin
     icon_pack: fab
