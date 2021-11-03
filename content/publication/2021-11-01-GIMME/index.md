@@ -28,9 +28,9 @@ abstract: Background Callous-unemotional (CU) traits, a youth antisocial phenoty
 summary: The dearth of analyses examining the heterogeneity of individual brain connectivity and its association with callous-unemotional traits is a barrier to developing a mechanistic understanding of these traits in adolescents. Thus, we used a novel connectivity method to examine network topology in adolescent brains and how connection density and node centrality was different in the presence of callous-unemotional traits. 
 
 tags:
-- callous-unemotional traits
-- adolescence
-- network topology
+- Callous-Unemotional Traits
+- Adolescence
+- Network Topology
 - fMRI 
 - Functional Connectivity
 - GIMME
