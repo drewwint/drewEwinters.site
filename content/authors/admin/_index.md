@@ -1,17 +1,19 @@
 ---
 role: Postdoctoral Fellow in Developmental Psychobiology
 avatar_filename: avatar.jpg
-bio: Mental and social health and associated neural processes across the
-  lifespan. In this vein, I am interested in applying quantitative methods to
-  identify replicable neural mechanisms underlying these processes.
+bio: My research interests include mental and social health as well as their
+  associated neural processes across the lifespan. In this vein, I am interested
+  in applying quantitative methods to identify replicable neural mechanisms that
+  may improve testing and development of interventions for youth with
+  callous-unemotional traits.
 interests:
-  - My research interests include social cognition
-  - cognitive control
-  - callous-unemotional traits
-  - quantitative methods
-  - developmental psychobiology
-  - social cognitive neuroscience
-  - open-science.
+  - Social Cognition
+  - Cognitive Control
+  - Callous-Unemotional Traits
+  - Quantitative Methods
+  - Developmental Psychobiology
+  - Social Cognitive Neuroscience
+  - Open-Science.
 social:
   - icon: linkedin
     icon_pack: fab
