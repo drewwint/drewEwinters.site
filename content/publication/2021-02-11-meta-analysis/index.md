@@ -29,13 +29,13 @@ abstract: Background. Social impairments are important features of a substance u
 summary: We conducted a meta-analysis of the literature to evaluate the importance of social impairments in substance use disorder as well as recent models that early impairments in socio-cognitive and -affective processes may predict future use. 
 
 tags:
-- Adolescents
+- Adolescence
 - Substance use 
 - Risk
 - Empathy
-- Callous-unemotional traits
-- Theory of mind
-- Social cognition
+- Callous-Unemotional Traits
+- Theory of Mind
+- Social Cognition
 featured: true
 
 
