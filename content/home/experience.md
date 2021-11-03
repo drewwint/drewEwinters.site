@@ -63,7 +63,7 @@ experience:
     location: Ann Arbor, MI
     date_start: 2019-07-01
     date_end: 2020-07-01
-    description: Regression II Advanced Topics
+    description: Regression II Linear Models
   - title: Therapist
     company: Family Works Inc.
     company_url: https://www.family-works-inc.com/
