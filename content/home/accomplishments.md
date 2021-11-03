@@ -32,7 +32,7 @@ item:
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
     date_end: ""
     date_start: 2021-07-22
-    description: 120 hour 8 week course
+    description: 120 hour three-week course
     organization: neuromatch academy
     organization_url: https://academy.neuromatch.io/
     title: Complutational Neuroscience Certification
@@ -59,7 +59,7 @@ item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/EITM%20certification%20in%20SEM.pdf
     date_end: ""
     date_start: 2018-10-05
-    description: 80 hour 4 week course
+    description: 80 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Structural Equation Models with Latent Variables Certification
