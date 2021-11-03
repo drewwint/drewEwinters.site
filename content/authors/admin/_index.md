@@ -1,14 +1,17 @@
 ---
 role: Postdoctoral Fellow in Developmental Psychobiology
 avatar_filename: avatar.jpg
-bio: My research interests include social cognition, cognitive control,
-  callous-unemotional traits, quantitative methods, developmental psychobiology,
-  social cognitive neuroscience, open-science.
+bio: Mental and social health and associated neural processes across the
+  lifespan. In this vein, I am interested in applying quantitative methods to
+  identify replicable neural mechanisms underlying these processes.
 interests:
-  - Mental and social health and associated neural processes across the
-    lifespan. In this vein
-  - I am interested in applying quantitative methods to identify replicable
-    neural mechanisms underlying these processes. these phenomenon.
+  - My research interests include social cognition
+  - cognitive control
+  - callous-unemotional traits
+  - quantitative methods
+  - developmental psychobiology
+  - social cognitive neuroscience
+  - open-science.
 social:
   - icon: linkedin
     icon_pack: fab
