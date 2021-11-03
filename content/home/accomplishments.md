@@ -17,7 +17,7 @@ item:
     description: 80 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
-    title: Multilevel Modeling II Advanced Topics Certification
+    title: Multilevel Modeling II Advanced Topics
     url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Poe--Multilevel%20Models%20II.pdf
     
   - certificate_url: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/EITM%20certificatoin%20MLM%20and%20network%20analysis.pdf
@@ -26,7 +26,7 @@ item:
     description: 80 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
-    title: Network Analysis II Advanced Topics Certification
+    title: Network Analysis II Advanced Topics
     url: https://www.icpsr.umich.edu/files/sumprog/biblio/2021/secondsession/Chyzh--Network%20Analysis%20II.pdf
     
   - certificate_url: https://portal.neuromatchacademy.org/certificate/e2418d20-2d51-4555-99c5-cd2c14eebec9
@@ -35,7 +35,7 @@ item:
     description: 120 hour three-week course
     organization: neuromatch academy
     organization_url: https://academy.neuromatch.io/
-    title: Complutational Neuroscience Certification
+    title: Complutational Neuroscience
     url: https://academy.neuromatch.io/
     
   - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/52d17b78fb0bfd5166ad2ea1381625bf185ceb3b
@@ -62,7 +62,7 @@ item:
     description: 80 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
-    title: Structural Equation Models with Latent Variables Certification
+    title: Structural Equation Models with Latent Variables
     url: https://www.icpsr.umich.edu/files/sumprog/biblio/2018/secondsession/Structural%20Equation%20Models%20with%20Latent%20Variables%202018%20-%20Douglas%20Baer.pdf
     
 widget_id: Accomplishments
