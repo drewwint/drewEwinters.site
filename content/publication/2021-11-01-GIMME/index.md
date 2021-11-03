@@ -32,6 +32,8 @@ tags:
 - adolescence
 - network topology
 - fMRI 
+- Functional Connectivity
+- GIMME
 featured: true
 
 
