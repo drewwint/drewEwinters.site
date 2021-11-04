@@ -1,6 +1,7 @@
 ---
 title: Cognitive Control and Affective Theory of Mind in Early Adolescents with Callous-Unemotional Traits
-summary: This project seeks to test the extent to which cognitive impairments drive difficulties for adolescents with callous-unemotional traits to infer and understand others emotions.
+summary: This project seeks to test the extent to which cognitive impairments amongst adolescents with callous-unemotional traits drive difficulties to infer and understand others emotions.
+
 tags:
 - Theory of Mind
 - Cognitive Control
