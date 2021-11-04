@@ -5,7 +5,6 @@ title: 'Network functional connectivity underlying dissociable cognitive and aff
 Authors: 
 - Drew E. Winters
 - Patrick J. Pruitt 
-- Malgorzata Gambin
 - Sadaaki Fukui
 - Melissa A. Cyders 
 - Barbara J. Pierce 
