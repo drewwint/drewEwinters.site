@@ -34,7 +34,7 @@ tags:
 - Neuroscience
 - Recidivism
 
-featured: true
+featured: false
 
 
 # links:
