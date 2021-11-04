@@ -3,7 +3,7 @@ widget: pages
 widget_id: pages
 weight: 50
 title: Recent Publications
-subtitle: ""
+subtitle: "See CV for all publications"
 content:
   page_type: publication
   count: 5	
