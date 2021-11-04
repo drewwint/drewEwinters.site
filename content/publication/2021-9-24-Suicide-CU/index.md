@@ -34,7 +34,7 @@ tags:
 - Adolescence
 - Substance Use
 - Structural Equation Modeling
-featured: true
+featured: false
 
 
 # links:
