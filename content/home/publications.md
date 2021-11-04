@@ -21,5 +21,5 @@ design:
 ---
 
 
-Quickly discover relevant content by [filtering publications](./publication/).
+[Click here for publication listing](./publication/).
 
