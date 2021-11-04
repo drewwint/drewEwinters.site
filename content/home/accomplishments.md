@@ -14,7 +14,7 @@ item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/EITM%20certificatoin%20MLM%20and%20network%20analysis.pdf
     date_end: ""
     date_start: 2021-10-28
-    description: 80 hour four-week course
+    description: 100 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Multilevel Modeling II Advanced Topics
@@ -23,7 +23,7 @@ item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/EITM%20certificatoin%20MLM%20and%20network%20analysis.pdf
     date_end: ""
     date_start: 2021-10-28
-    description: 80 hour four-week course
+    description: 100 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Network Analysis II Advanced Topics
@@ -59,7 +59,7 @@ item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/EITM%20certification%20in%20SEM.pdf
     date_end: ""
     date_start: 2018-10-05
-    description: 80 hour four-week course
+    description: 100 hour four-week course
     organization: Emperical Implications of Theoretical Models (EITM)
     organization_url: https://eitminstitute.org/about-eitm/
     title: Structural Equation Models with Latent Variables
