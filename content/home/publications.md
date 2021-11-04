@@ -18,8 +18,6 @@ content:
 headless: true
 design:
   view: 4
-item:
-- title: pub_1
 ---
 
 
