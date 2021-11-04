@@ -3,7 +3,7 @@ widget: pages
 widget_id: pages
 weight: 50
 title: Recent Publications
-subtitle: "See CV for all publications"
+subtitle: "See [CV](https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/DWinters_CV_11-21.pdf) for all publications"
 content:
   page_type: publication
   count: 5	
@@ -21,5 +21,5 @@ design:
 ---
 
 
-[Click here for publication listing](./publication/).
+[Click here for publication listing](./publication/)
 
