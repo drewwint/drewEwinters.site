@@ -23,5 +23,5 @@ design:
 ---
 
 
-[Click here to search publication listing](./publication/)
+To search publication my listing [click here](./publication/)
 
