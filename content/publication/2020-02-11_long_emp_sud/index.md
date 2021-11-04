@@ -36,7 +36,7 @@ tags:
 - Affective empathy
 - Substance Use
 - Growth Curve Modeling
-featured: true
+featured: false
 
 
 # links:
