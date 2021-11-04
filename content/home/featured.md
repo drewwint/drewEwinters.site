@@ -2,7 +2,7 @@
 widget: featured
 headless: true
 weight: 40
-title: Publications & Preprints
+title: Featured Publications & Preprints
 subtitle: ""
 content:
   page_type: publication
