@@ -1,8 +1,9 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
-widget: pages
-widget_id: pages
+widget = "publications"
+active = true
+date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
 subtitle = "See CV for all publications"
@@ -32,7 +33,7 @@ list_format = 3
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+#exclude_selected = false
 +++
 
 
