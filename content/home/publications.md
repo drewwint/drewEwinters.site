@@ -2,7 +2,7 @@
 widget: pages
 widget_id: pages
 weight: 50
-title: Listed Publications
+title: Listed Publications & Preprints
 subtitle: See
   [CV](https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/DWinters_CV_11-21.pdf)
   for all publications
