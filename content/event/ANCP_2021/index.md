@@ -18,7 +18,7 @@ abstract: "**Background** Impaired affective theory of mind for complex stimuli 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-08T15:30:00Z"
+date: "2021-12-08T17:30:00Z"
 date_end: "2021-12-08T19:30:00Z"
 all_day: false
 
