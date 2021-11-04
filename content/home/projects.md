@@ -5,15 +5,15 @@ weight: 35
 title: Projects
 subtitle: ""
 content:
-  page_type: project
-  filter_default: 0
-  filter_button:
-    - name: All
-      tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+#  page_type: project
+#  filter_default: 0
+#  filter_button:
+#    - name: All
+#      tag: "*"
+#    - name: Deep Learning
+#      tag: Deep Learning
+#    - name: Other
+#      tag: Demo
 widget_id: portfolio
 design:
   columns: "2"
