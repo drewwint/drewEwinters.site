@@ -71,5 +71,5 @@ weight: 60
 title: Certifications
 subtitle: null
 design:
-  columns: 2x2
+  columns: "2"
 ---
