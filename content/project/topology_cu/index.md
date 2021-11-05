@@ -1,6 +1,6 @@
 ---
 title: Brain Network Topology Underlying Socio-Affective Function and Callous-Unemotional Trait
-summary: This project seeks to leverage advanced network connctivity approaches that complexity of brain dynamics to better understand the brains of adolescents with callous-unemotional traits.
+summary: This project seeks to leverage advanced network connctivity approaches that capture the complexity of brain dynamics in order to understand socio-affective functioning and callous-unemotional traits assocaition with the brain from adolescence into adulthood.
 
 tags:
 - Functional Connectivity
