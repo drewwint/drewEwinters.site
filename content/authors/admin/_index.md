@@ -12,7 +12,7 @@ interests:
   - Antisocial Phenotypes
   - Quantitative Methods
   - Developmental Psychobiology
-  - Social cognitive Neuroscience
+  - Social Cognitive Neuroscience
   - Open Science
 social:
   - icon: linkedin
