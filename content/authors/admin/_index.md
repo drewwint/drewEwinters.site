@@ -32,9 +32,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/drewwint
-  - icon: CV
-    icon_pack: fas
-    link: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/DWinters_CV_11-21.pdf
   - icon: envelope
     icon_pack: fas
     link: /#contact
@@ -65,4 +62,4 @@ To understand these phenomena, I use functional neuroimaging, network science, a
 
 I am currently a postdoctoral fellow in the NIMH-funded T32 postdoctoral training program in Developmental Psychobiology at the University of Colorado Anschutz Medical Campus. 
 
-{{< icon name="download" pack="fas" >}} **Download my CV** [here](https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/DWinters_CV_11-21.pdf)
+{{< icon name="download" pack="fas" >}} **Download my** [CV](https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/static/uploads/DWinters_CV_11-21.pdf)
