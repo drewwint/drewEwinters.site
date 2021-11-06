@@ -62,4 +62,4 @@ To understand these phenomena, I use functional neuroimaging, network science, a
 
 I am currently a postdoctoral fellow in the NIMH-funded T32 postdoctoral training program in Developmental Psychobiology at the University of Colorado Anschutz Medical Campus. 
 
-{{< icon name="download" pack="fas" >}} **Download my** [CV](https://github.com/drewwint/drewEwinters.site/blob/master/static/uploads/CV.pdf)
+{{< icon name="download" pack="fas" >}} **Download my** [CV](https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/CV.pdf)
