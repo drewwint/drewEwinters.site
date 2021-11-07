@@ -60,6 +60,6 @@ Social functioning and the brain shapes how an individual interacts with their w
 
 To investigate this, I use [functional neuroimaging]( https://en.wikipedia.org/wiki/Functional_neuroimaging) and [network science]( https://en.wikipedia.org/wiki/Network_science) as well as [structural equation]( https://en.wikipedia.org/wiki/Structural_equation_modeling) and [growth curve]( https://en.wikipedia.org/wiki/Growth_curve_(statistics)) models. I am passionate about how to apply these methods to improve statistical inferences and leveraging these methods to identify mechanisms that give rise to these phenomena. My overall goal is to define replicable brain mechanisms that underlie neurocognitive and socio-affective impairments associated with youth antisocial phenotypes. This is important because it would improve the way we design and test the efficacy of new interventions for these youth. 
 
-I am currently a postdoctoral fellow in the NIMH-funded T32 postdoctoral training program in Developmental Psychobiology at the University of Colorado Anschutz Medical Campus.
+I am a NIMH-funded T32 postdoctoral fellow in Developmental Psychobiology with the department of Psychiatry at the University of Colorado Anschutz Medical Campus.
 
 {{< icon name="download" pack="fas" >}} **Download my** [CV](https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/CV.pdf)
