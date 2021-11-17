@@ -41,7 +41,7 @@ url_pdf: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/c
 url_preprint: https://psyarxiv.com/stwj8/
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/content/event/ANCP_2021/poster.png
 url_project: ''
 url_slides: ''
 url_source: ''
