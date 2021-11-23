@@ -2,7 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: ""
+  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/65fe844176a248491e57d37a88501a983d9703ee
     date_end: ""
     date_start: 2021-11-25
     description: 88 hours 23 courses
