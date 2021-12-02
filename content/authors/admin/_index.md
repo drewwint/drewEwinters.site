@@ -54,7 +54,7 @@ education:
 superuser: true
 highlight_name: true
 title: Drew E. Winters, PhD.
-email: drewewinters@gmail.com
+email: drewEwinters@gmail.com
 ---
 My mission is to understand how social functioning and associated neural processes influence mental health and social behavior as they change over development. In this vein, I am interested in how [executive functioning](https://en.wikipedia.org/wiki/Executive_functions) and [social cognition](https://en.wikipedia.org/wiki/Social_cognition) interact in relation to mental health and contribute to [phenotypes](https://en.wikipedia.org/wiki/Phenotype) associated with [antisocial behavior](https://en.wikipedia.org/wiki/Anti-social_behaviour) (e.g. [callous-unemotional traits]( https://en.wikipedia.org/wiki/Callous_and_unemotional_traits)) across adolescence and into adulthood. 
 
