@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Recent Posts
 cms_exclude: true
 
 # View.
