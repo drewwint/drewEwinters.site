@@ -9,7 +9,7 @@ subtitle: See
 content:
   page_type: publication
   count: 5
-  offset: 1
+  offset: 0
   order: desc
   filters:
     tag: ""
