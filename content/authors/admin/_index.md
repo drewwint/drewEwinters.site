@@ -42,7 +42,7 @@ organizations:
     url: https://medschool.cuanschutz.edu/psychiatry/education/fellowships/developmental-psychobiology-research-group
 education:
   courses:
-    - course: PhD in Social Work/ n\Quantitative Psychology Minor
+    - course: PhD in Social Work/Quantitative Psychology Minor
       institution: Indiana University
       year: 2020
     - course: MSW
