@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Drew E. Winters, PhD. # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://drewEwinters.com/' # Website URL
 copyright: '© 2021 Drew E. Winters, PhD.' # Footer text, e.g. '© {year} Me'
 
 ############################
