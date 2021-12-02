@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle: [see]{https://github.com/drewwint/drewEwinters.site/tree/master/content/post}
+subtitle: [see](https://github.com/drewwint/drewEwinters.site/tree/master/content/post)
 
 content:
   # Page type to display. E.g. post, talk, publication...
