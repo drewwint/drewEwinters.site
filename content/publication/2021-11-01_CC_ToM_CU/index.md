@@ -39,7 +39,7 @@ featured: true
 #   url: ""
 url_pdf: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/content/publication/2021-11-01_CC_ToM_CU/CC_ToM/CC_ToM_preprint.pdf
 url_preprint: https://psyarxiv.com/stwj8/
-url_code: ''
+url_code: https://htmlpreview.github.io/?https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2021-11-01_CC_ToM_CU/CC_ToM/Full_data_paper-1_reproducable.html
 url_dataset: ''
 url_poster: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/content/event/ANCP_2021/poster.png
 url_project: ''
