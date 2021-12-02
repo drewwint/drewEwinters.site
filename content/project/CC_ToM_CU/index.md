@@ -36,4 +36,4 @@ url_video: ""
 slides: ""
 ---
 
-Goal: A primary concern for antisocial behavior in youth with callous-unemotional traits is the associated difficulty with processing the emotions of others. The aim of this project is to elucidate specific impairments in neurocognitive function associated with callous-unemotional traits and their impact on processing other's emotions. 
+A primary concern for antisocial behavior in youth with callous-unemotional traits is the associated difficulty with processing the emotions of others. The aim of this project is to elucidate specific impairments in neurocognitive function associated with callous-unemotional traits and their impact on processing other's emotions. 
