@@ -42,13 +42,13 @@ organizations:
     url: https://medschool.cuanschutz.edu/psychiatry/education/fellowships/developmental-psychobiology-research-group
 education:
   courses:
-    - course: PhD in Social Work/Quantitative Psychology Minor
+    - course: PhD in Social Work / Quantitative Psychology Minor
       institution: Indiana University
       year: 2020
     - course: MSW
       institution: Indiana University
       year: 2015
-    - course: BS in Human Services/ Psychology Minor
+    - course: BS in Human Services / Psychology Minor
       institution: Purdue University
       year: 2019
 superuser: true
@@ -62,4 +62,4 @@ To investigate this, I use [functional neuroimaging]( https://en.wikipedia.org/w
 
 I am a NIMH-funded T32 postdoctoral fellow in [Developmental Psychobiology](https://en.wikipedia.org/wiki/Developmental_psychobiology) with the department of Psychiatry at the University of Colorado Anschutz Medical Campus.
 
-{{< icon name="download" pack="fas" >}} **Download my** [CV](https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/CV.pdf)
+{{< icon name="download" pack="fas" >}} [Download my CV](https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/CV.pdf)
