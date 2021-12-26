@@ -42,15 +42,15 @@ organizations:
     url: https://medschool.cuanschutz.edu/psychiatry/education/fellowships/developmental-psychobiology-research-group
 education:
   courses:
-    - course: PhD in Social Work / Quantitative Psychology Minor
+    - course: PhD in Social Work / Quantitative Psychology
       institution: Indiana University
       year: 2020
     - course: MSW
       institution: Indiana University
       year: 2015
-    - course: BS in Human Services / Psychology Minor
+    - course: BS in Human Services / Psychology 
       institution: Purdue University
-      year: 2019
+      year: 2013
 superuser: true
 highlight_name: true
 title: Drew E. Winters, PhD.
