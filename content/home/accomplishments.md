@@ -2,7 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/65fe844176a248491e57d37a88501a983d9703ee
+  - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/11_22_21_DataCamp_Python_data_scientist.pdf
     date_end: ""
     date_start: 2021-11-25
     description: 88 hours 23 courses
