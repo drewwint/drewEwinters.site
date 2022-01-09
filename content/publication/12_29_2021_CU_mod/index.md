@@ -3,8 +3,9 @@
 title: 'Callous-unemotional traits in adolescents moderate neural network associations with empathy'
 Authors: 
 - Drew E. Winters
-- Joseph T. Sakai
-- "& R. McKell Carter"
+- Patrick Pruitt
+- Jessica Damoiseaux
+- "& Joseph T Sakai"
 
 date: 2021-12-01T00:00:00
 doi: "10.1016/j.pscychresns.2021.111429"
@@ -22,7 +23,7 @@ publication_types: ["2"]
 publication: "*Psychiatry Research: Neuroimaging*"
 publication_short: ""
 
-abstract: Callous-unemotional (CU) traits in adolescents are a dimensional construct involving a symptom subset of empathy impairments amongst broader affective deficits. Higher CU trait scores associate with less cognitive and affective empathy; and brain regions linked with cognitive and affective empathy show aberrant function in those with CU traits. How CU traits impact the relationship between brain function and both cognitive and affective empathy in adolescents is less clear. Here we examine how functional properties of networks that support cognitive and affective empathy is moderated by CU traits. Eighty-four adolescents underwent resting-state fMRI scanning and completed self-reports for empathy (Interpersonal Reactivity Index) and CU traits (Inventory of Callous-Unemotional Traits). Analysis revealed that CU traits moderate the association between affective empathy and connectivity between the default mode-frontoparietal networks. Weaker between default mode-frontoparietal anticorrelation negatively associated with affective empathy at low to moderate CU traits. Those highest in CU traits had the lowest affective empathy; and negative associations for those highest in CU traits were insignificant as default mode-frontoparietal anticorrelation weakened. Our results indicate that functional properties of networks that support affective empathy is different at varying levels of CU traits. This novel finding demonstrates that CU traits presence changes the relationship between the brain and empathy. 
+abstract: Callous-unemotional (CU) traits in adolescents are a dimensional construct involving a symptom subset of empathy impairments amongst broader affective deficits. Higher CU trait scores associate with less cognitive and affective empathy; and brain regions linked with cognitive and affective empathy show aberrant function in those with CU traits. How CU traits impact the relationship between brain function and both cognitive and affective empathy in adolescents is less clear. Here we examine how functional properties of networks that support cognitive and affective empathy is moderated by CU traits. Eighty-four adolescents underwent resting-state fMRI scanning and completed self-reports for empathy (Interpersonal Reactivity Index) and CU traits (Inventory of Callous-Unemotional Traits). Analysis revealed that CU traits moderate the association between affective empathy and connectivity between the default mode-frontoparietal networks. Weaker between default mode-frontoparietal anticorrelation negatively associated with affective empathy at low to moderate CU traits. Those highest in CU traits had the lowest affective empathy; and negative associations for those highest in CU traits were insignificant as default mode-frontoparietal anticorrelation weakened. Our results indicate that functional properties of networks that support affective empathy is different at varying levels of CU traits. This novel finding demonstrates that CU traits presence changes the relationship between the brain and empathy.
 
 # Summary. An optional shortened abstract.
 summary: ""
