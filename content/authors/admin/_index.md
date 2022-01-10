@@ -18,9 +18,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/drewwint/
-  - icon: osf
-    icon_pack: ai
-    link:	osf.io/3pjnt
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0701-9658
@@ -35,6 +32,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/drewwint
+  - icon: osf
+    icon_pack: ai
+    link:	osf.io/3pjnt
   - icon: envelope
     icon_pack: fas
     link: mailto:wwww.drewEwinters@gmail.com
