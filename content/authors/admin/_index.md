@@ -18,6 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/drewwint/
+  - icon: psf
+    icon_pack: ai
+    link:	osf.io/3pjnt
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0701-9658
@@ -34,7 +37,7 @@ social:
     link: https://github.com/drewwint
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:wwww.drewEwinters@gmail.com
 organizations:
   - name: University of Colorado Anschutz Medical Campus
     url: https://www.cuanschutz.edu/
