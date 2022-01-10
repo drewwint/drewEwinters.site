@@ -41,7 +41,7 @@ tags:
 - Functional Connectivity
 - fMRI
 
-featured: true
+featured: false
 
 
 # links:
