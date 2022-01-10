@@ -34,7 +34,7 @@ social:
     link: https://github.com/drewwint
   - icon: osf
     icon_pack: ai
-    link:	osf.io/3pjnt
+    link:	https://osf.io/3pjnt/
   - icon: envelope
     icon_pack: fas
     link: mailto:wwww.drewEwinters@gmail.com
