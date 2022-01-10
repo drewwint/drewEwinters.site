@@ -18,7 +18,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/drewwint/
-  - icon: psf
+  - icon: osf
     icon_pack: ai
     link:	osf.io/3pjnt
   - icon: orcid
