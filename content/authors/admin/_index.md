@@ -23,7 +23,7 @@ social:
     link: https://orcid.org/0000-0002-0701-9658
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=GmIdIyIAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
   - display:
       header: false
     link: https://www.researchgate.net/profile/Drew-Winters
