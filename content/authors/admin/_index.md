@@ -35,6 +35,9 @@ social:
   - icon: osf
     icon_pack: ai
     link:	https://osf.io/3pjnt/
+  - icon: CV
+    icon_pack: ai
+    link: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/CV.pdf
   - icon: envelope
     icon_pack: fas
     link: mailto:wwww.drewEwinters@gmail.com
