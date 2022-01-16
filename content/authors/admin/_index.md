@@ -24,11 +24,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/Drew-Winters
+  - icon: researchgate
     icon_pack: fab
-    icon: researchgate
+    link: https://www.researchgate.net/profile/Drew-Winters
   - icon: github
     icon_pack: fab
     link: https://github.com/drewwint
