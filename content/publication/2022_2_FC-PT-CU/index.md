@@ -11,7 +11,7 @@ date: 2022-02-01T00:00:00
 doi: "10.1101/2022.03.24.485718"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-01T00:00:00"
+publishDate: "2022-02-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -56,7 +56,7 @@ url_OSF: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '**Figure 1**. Individual-level associations across all participants with callous-unemotional traits. A. Depiction off all potential connections in the frontoparietal network (FPN); B. Association between positive connections within the FPN; C. Depiction of all possible connections between default mode-frontoparietal networks (DMN-FPN); D. Association between CU traits and positive connections between DMN-FPN. Node: blue = DMN, red = salience network (SAL), green = FPN.;**Figure 2**. Group-level associations of subgroup two with callous-unemotional traits. A. Depiction of the shared connections for subgroup two. Size of spherical nodes indicate within network centrality (bigger node spheres = more centrality) and size of edges indicate connection density (thicker connection = more density); B. Depicting probability of subgroup inclusion in the presence of total callous-unemotional traits; C. Depicting the heterogeneity of all unshared connections in subgroup 2; D. Mean differences in CU traits by GIMME identified network subgroup. Note: only significant pairwise tests are shown. Node colors: blue = default mode network, red = salience network, green = frontoparietal network.'
+  caption: '**Figure 3**. Depicting the Final Full Model Results and Average Functional Network Properties of Centrality and Density'
   focal_point: "top"
   preview_only: false
 
