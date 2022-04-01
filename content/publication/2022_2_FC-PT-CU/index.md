@@ -57,7 +57,7 @@ url_OSF: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: '**Figure 3**. Depicting the Final Full Model Results and Average Functional Network Properties of Centrality and Density'
-  focal_point: "top"
+  focal_point: "left"
   preview_only: false
 
 # Associated Projects (optional).
