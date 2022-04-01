@@ -12,7 +12,7 @@ address:
   postcode: '80045'
   country: United States
 
-summary: This is an introduction to the statistical language R geared toward medical students in the research track. 
+summary: Here I provide an introduction to the statistical language R geared toward medical students in the research track. 
 
 abstract: ""
 
@@ -62,6 +62,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-#- 
+projects:""
+ 
 ---
