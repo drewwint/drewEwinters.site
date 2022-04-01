@@ -51,7 +51,7 @@ url_OSF: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "**TOP LEFT**: baseline assocaition between affective ToM and CU traits; **TOP RIGHT**: assocaition between maximum cognitive control and CU traits; **BOTTOM LEFT**: change in complex affective ToM from before to after a cognitive load as a function of *total CU traits*; **BOTTOM RIGHT**: change in complex affective ToM from before to after a cognitive load as a function of the subscale *unemotoinal traits* "
+  caption: ""
   focal_point: "left"
   preview_only: false
 
