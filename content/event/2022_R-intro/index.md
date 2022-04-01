@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to the statistical language R for medical students'
+title: 'Introduction to R'
 
 event: Research Track Medical Student Education
 event_url: ""
