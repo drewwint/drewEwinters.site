@@ -48,7 +48,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/content/publication/2021-11-01_CC_ToM_CU/CC_ToM/CC_ToM_preprint.pdf
+url_pdf: https://www.biorxiv.org/content/10.1101/2022.03.24.485718v1.full.pdf
 url_slides: https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/content/event/ANCP_2021/poster.png
 url_video: ""
 
