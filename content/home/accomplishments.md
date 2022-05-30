@@ -2,6 +2,15 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
+  - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/ML_scikitlearn_DWinters_2022.pdf
+    date_end: ""
+    date_start: 2022-05-17 
+    description: ~30 hours 26 courses
+    organization: Inria
+    organization_url: https://www.inria.fr/en
+    title: Machine learning in Python with scikit-learn
+    url: https://lms.fun-mooc.fr/courses/course-v1:inria+41026+session02/info
+
   - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/11_22_21_DataCamp_Python_data_scientist.pdf
     date_end: ""
     date_start: 2021-11-25
