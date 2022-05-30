@@ -5,7 +5,7 @@ item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/ML_scikitlearn_DWinters_2022.pdf
     date_end: ""
     date_start: 2022-05-17 
-    description: ~30 hours 26 courses
+    description: 30 hours 26 courses
     organization: Inria
     organization_url: https://www.inria.fr/en
     title: Machine learning in Python with scikit-learn
