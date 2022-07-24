@@ -45,9 +45,9 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: https://github.com/drewwint/Introduction-to-R/blob/main/Tutorial_code/basic%20R%20functions.R
 url_pdf: ""
-url_slides: ""
+url_slides: https://htmlpreview.github.io/?https://github.com/drewwint/Introduction-to-R/blob/main/Slides/R_Intro_slides_V2.html
 url_video: ""
 
 # Markdown Slides (optional).
