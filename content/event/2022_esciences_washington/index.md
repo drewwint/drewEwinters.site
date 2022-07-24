@@ -51,7 +51,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: https://github.com/drewwint/drewEwinters.site/blob/master/content/event/2022_esciences_washington/DWinters_NHA_poster.png
+url_slides: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/content/event/2022_esciences_washington/DWinters_NHA_poster.png
 url_video: ""
 
 # Markdown Slides (optional).
