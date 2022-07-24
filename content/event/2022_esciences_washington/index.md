@@ -1,5 +1,5 @@
 ---
-title: 'Cognitive Load Sensitivity Impacts Theory of Mind Impairments in Callous-Unemotional Traits'
+title: 'Computational Lesioning of Heterogenous Functional Connectomes Explains Variance in Adolescent Callous-Unemotional Traits'
 
 event: Neurohackadamy
 event_url: https://neurohackademy.org/
