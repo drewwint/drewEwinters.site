@@ -1,5 +1,5 @@
 ---
-title: 'Computational Lesioning of Heterogenous Functional Connectomes Explains Variance in Adolescent Callous-Unemotional Traits'
+title: 'Computational lesioning of heterogenous functional connectomes explains variance in adolescent callous-unemotional traits'
 
 event: Neurohackadamy
 event_url: https://neurohackademy.org/
