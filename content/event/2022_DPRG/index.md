@@ -1,5 +1,5 @@
 ---
-title: 'Cognitive Load Sensitivity Impacts Theory of Mind Impairments in Callous-Unemotional Traits'
+title: 'Cognitive load sensitivity impacts theory of mind impairments in callous-unemotional traits'
 
 event: Developmental Psychobiology Research Group
 event_url: https://medschool.cuanschutz.edu/psychiatry/programs/dprg-seminars
