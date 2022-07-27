@@ -1,5 +1,5 @@
 ---
-title: 'Affective Theory of Mind Impairments Underlying Callous-Unemotional Traits and the Role of Cognitive Control: A Pilot Study'
+title: 'Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control: A pilot study'
 
 event: American College of Neuropsychopharmocology
 event_url: https://acnp.org/annual-meeting/
