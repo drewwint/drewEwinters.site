@@ -12,7 +12,7 @@ address:
   postcode: '98195'
   country: United States
 
-summary: I will present resutls on a project involving computatoinally simulating lesions acorss the functional connectome to predict CU traits. 
+summary: Presented results from computatoinally simulating lesions acorss the functional connectome to predict CU traits. 
 
 abstract: ""
 
