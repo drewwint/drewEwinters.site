@@ -12,7 +12,7 @@ address:
   postcode: '80045'
   country: United States
 
-summary: This talk outlines cognitive control, its assocaition with affective theroy of mind, and how this related to the youth antisocial phenotype callous-unemotoinal traits. Here I present a series of studies and analyses conducted over the previous year
+summary: On the topic of cognitive control and its assocaition with affective theroy of mind in relation to the youth antisocial phenotype callous-unemotoinal traits.
 
 abstract: ""
 
