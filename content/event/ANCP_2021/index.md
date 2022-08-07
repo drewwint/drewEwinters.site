@@ -12,7 +12,7 @@ address:
   postcode: '00907'
   country: Puerto Rico
 
-summary: This original data collection (PI Winters) tests the impact of cognitive control on affective theory of mind in a sample of early adolescents that vary on callous-unemotional traits. I presented the findings demonstrating the negative impact of placing additional demands on cognitive control has on affective theory of mind amongst adolescents with callous-unemotional traits. 
+summary: Results from the original data collection (PI Winters) that tested the impact of cognitive control on affective theory of mind in a sample of early adolescents that vary on callous-unemotional traits.
 
 abstract: ""
 
