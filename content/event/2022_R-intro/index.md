@@ -12,7 +12,7 @@ address:
   postcode: '80045'
   country: United States
 
-summary: Here I provide an introduction to the statistical language R geared toward medical students in the research track. 
+summary: An introduction to the statistical language R for medical students in the research track. 
 
 abstract: ""
 
