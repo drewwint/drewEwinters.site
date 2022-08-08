@@ -50,7 +50,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: https://doi.org/10.13140/RG.2.2.11397.22245
 url_slides: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/content/event/2022_esciences_washington/DWinters_NHA_poster.png
 url_video: ""
 
