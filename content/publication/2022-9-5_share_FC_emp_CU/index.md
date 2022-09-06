@@ -5,11 +5,11 @@ Authors:
 - Drew E. Winters
 - Luke W. Hyde
 
-date: 2022-9-01T00:00:00
+date: 2022-09-01T00:00:00
 doi: "https://doi.org/10.1016/j.jad.2022.08.103"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-9-01T00:00:00"
+publishDate: "2022-09-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
