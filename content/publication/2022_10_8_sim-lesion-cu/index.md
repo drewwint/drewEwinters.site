@@ -51,7 +51,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_OSF: 'https://doi.org/10.17605/OSF.IO/M5G6X'
+url_OSF: https://doi.org/10.17605/OSF.IO/M5G6X
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
