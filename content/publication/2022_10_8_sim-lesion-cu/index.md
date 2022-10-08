@@ -45,7 +45,7 @@ url_pdf: ""
 url_preprint: https://doi.org/10.1101/2022.10.07.511379 
 url_code: 'https://github.com/drewwint/Publication_Simulated_Lesions_CU_Traits/blob/main/Sim_les_git_code.py'
 url_dataset: ''
-url_poster: ''
+url_poster: https://github.com/drewwint/drewEwinters.site/blob/master/content/event/2022_esciences_washington/DWinters_NHA_poster.png
 url_project: ''
 url_slides: ''
 url_source: ''
