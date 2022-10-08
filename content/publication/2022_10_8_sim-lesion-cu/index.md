@@ -27,7 +27,7 @@ abstract: Callous-unemotional (CU) traits are a youth antisocial phenotype hypot
 
 
 # Summary. An optional shortened abstract.
-summary: This project examined the extend to which perspective-taking accounted for the relatoinship between cognitive control and perspective taking as well as the underlying functional brain properties of these assocaitions. 
+summary: " "
 
 tags:
 - Callous-Unemotional Traits
