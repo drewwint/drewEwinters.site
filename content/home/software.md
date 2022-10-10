@@ -1,22 +1,23 @@
 ---
-widget: portfolio
+widget: pages
 headless: true
-weight: 35
-title: Projects
-subtitle: ""
+weight: 30
+title: Software
+subtitle: null
 content:
-#  page_type: project
-#  filter_default: 0
-#  filter_button:
-#    - name: All
-#      tag: "*"
-#    - name: Deep Learning
-#      tag: Deep Learning
-#    - name: Other
-#      tag: Demo
-widget_id: portfolio
+  page_type: software
+  count: 5
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  offset: 0
+  order: desc
+widget_id: pages
 design:
-  columns: "2"
   view: 2
-  flip_alt_rows: false
 ---
