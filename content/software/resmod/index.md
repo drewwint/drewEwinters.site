@@ -20,7 +20,7 @@ image:
 
 links:
 - icon: python
-  icon_pack: fa
+  icon_pack: fab
   name: pypi
   url: https://pypi.org/project/resmod/
 url_code: ""
