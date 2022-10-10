@@ -1,10 +1,12 @@
 ---
 title: resmod
-summary: a package for creating orthogonalized interaction terms by centering residuals
+summary: A python package for centering residuals to create orthogonalized interaction terms
 
 tags:
 - Software
 - Residual Centering
+- Interaction
+- Moderation
 - Python
 - Statistics
 date: "2022-09-27T00:00:00Z"
@@ -19,7 +21,7 @@ image:
 links:
 - icon: python
   icon_pack: fa
-  name: Follow
+  name: pypi
   url: https://pypi.org/project/resmod/
 url_code: ""
 url_pdf: ""
