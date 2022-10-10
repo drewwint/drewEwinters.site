@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: pypi
   url: https://pypi.org/project/resmod/
-url_code: ""
+url_code: https://github.com/drewwint/resmod
 url_pdf: ""
 url_slides: ""
 url_video: ""
