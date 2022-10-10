@@ -3,7 +3,7 @@ widget: pages
 headless: true
 weight: 25
 title: Software
-subtitle: null
+subtitle: Open source software
 content:
   page_type: software
   count: 5
