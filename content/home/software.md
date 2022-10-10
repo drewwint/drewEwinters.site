@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-weight: 40
+weight: 38
 title: Software
 subtitle: null
 content:
