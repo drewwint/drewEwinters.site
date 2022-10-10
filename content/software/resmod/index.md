@@ -9,7 +9,7 @@ tags:
 - Moderation
 - Python
 - Statistics
-date: ""
+date: "2022-09-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://pypi.org/project/resmod/
