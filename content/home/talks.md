@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-weight: 30
+weight: 65
 title: Recent & Upcoming Talks
 subtitle: null
 content:
