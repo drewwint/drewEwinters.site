@@ -22,7 +22,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fa
     link: https://twitter.com/drewinters
   - icon: github
     icon_pack: fab
