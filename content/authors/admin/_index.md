@@ -21,7 +21,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: twitter
+  - icon: fa-twitter
     icon_pack: fa-brands
     link: https://twitter.com/drewinters
   - icon: github
