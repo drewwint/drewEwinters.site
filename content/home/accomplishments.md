@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: pages
 date_format: Jan 2006
 item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/ML_scikitlearn_DWinters_2022.pdf
