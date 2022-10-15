@@ -76,7 +76,7 @@ item:
     
 widget_id: Accomplishments
 headless: true
-weight: 60
+weight: 65
 title: Certifications
 subtitle: null
 design:
