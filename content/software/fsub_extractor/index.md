@@ -21,7 +21,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: pypi
+  name: github
   url: https://github.com/smeisler/fsub_extractor
 url_code: https://github.com/smeisler/fsub_extractor
 url_pdf: ""
