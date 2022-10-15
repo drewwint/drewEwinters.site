@@ -15,27 +15,25 @@ interests:
   - Social Cognitive Neuroscience
   - Open Science
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/drewwint/
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-0701-9658
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:wwww.drewEwinters@gmail.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Drew-Winters
+  - icon: twitter
+    icon_pack: fas
+    link: https://twitter.com/drewinters
   - icon: github
     icon_pack: fab
     link: https://github.com/drewwint
   - icon: osf
     icon_pack: ai
     link:	https://osf.io/3pjnt/
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:wwww.drewEwinters@gmail.com
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/drewwint/
+
 organizations:
   - name: University of Colorado Anschutz Medical Campus
     url: https://www.cuanschutz.edu/
