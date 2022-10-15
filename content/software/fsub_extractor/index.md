@@ -1,6 +1,6 @@
 ---
 title: fsub_extractor
-summary: A python package for associating structural and functoinal brain data (Role Contributor)
+summary: A python package for associating structural and functoinal brain data       (Role Contributor)
 
 tags:
 - Software
