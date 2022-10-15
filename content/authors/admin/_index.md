@@ -24,15 +24,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/drewinters
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/drewwint
-  - icon: osf
-    icon_pack: ai
-    link:	https://osf.io/3pjnt/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/drewwint/
+  - icon: osf
+    icon_pack: ai
+    link:	https://osf.io/3pjnt/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/drewwint
 
 organizations:
   - name: University of Colorado Anschutz Medical Campus
