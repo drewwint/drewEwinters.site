@@ -20,10 +20,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: github
-  url: ""
+#- icon: github
+#  icon_pack: fab
+#  name: github
+#  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
