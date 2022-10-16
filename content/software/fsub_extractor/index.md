@@ -21,9 +21,9 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: github
+  name: GitHub
   url: https://github.com/smeisler/fsub_extractor
-url_code: https://github.com/smeisler/fsub_extractor
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
