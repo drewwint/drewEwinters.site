@@ -1,6 +1,6 @@
 ---
 title: fsub_extractor
-summary: A python package that projects grey matter regions into white matter and connects intersected regions. (Role Contributor)
+summary: A python package that projects grey matter regions into white matter and connects intersected regions (Role Contributor)
 
 tags:
 - Software
