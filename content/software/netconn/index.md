@@ -5,6 +5,7 @@ summary: A collection of python functions to improve network analyses with neuro
 tags:
 - Software
 - Network Analysis
+- Network Topology
 - fMRI
 - DTI
 - Functional Connectivity
