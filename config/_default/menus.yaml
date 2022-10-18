@@ -17,7 +17,7 @@ main:
     weight: 20
     
   - name: Software
-    url: '#software'
+    url: 'software/'
     weight: 25 
 
   - name: Publications
