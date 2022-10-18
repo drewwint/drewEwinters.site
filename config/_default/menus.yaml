@@ -29,7 +29,7 @@ main:
     weight: 40
     
   - name: Certifications
-    url: 'accomplishments/'
+    url: 'certifications/'
     weight: 45
 
   - name: Contact
