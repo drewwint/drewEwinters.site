@@ -25,7 +25,7 @@ main:
     weight: 30
 
   - name: Talks
-    url: 'talks/'
+    url: 'event/'
     weight: 40
     
   - name: Certifications
