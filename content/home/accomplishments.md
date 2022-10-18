@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 date_format: Jan 2006
-active: false
+# active: false
 item:
   - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/ML_scikitlearn_DWinters_2022.pdf
     date_end: ""
