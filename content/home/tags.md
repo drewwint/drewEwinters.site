@@ -1,6 +1,7 @@
 ---
 widget: tag_cloud
 headless: true
+active: false
 weight: 70
 title: Popular Topics
 subtitle: ""
