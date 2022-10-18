@@ -1,7 +1,6 @@
 ---
 widget: pages
 headless: true
-active: false
 weight: 25
 title: Software
 subtitle: Open source software
