@@ -5,7 +5,7 @@ author: admin
 widget_id: about
 headless: true
 weight: 20
-title: ""
+title: " "
 subtitle: ""
 design:
   columns: ""
