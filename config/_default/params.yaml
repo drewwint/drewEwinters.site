@@ -29,7 +29,9 @@ address:
   postcode: '80045'
   country: United States
   country_code: US
-coordinates = {latitude= '39.745160', longitude = '-104.835950'}
+coordinates:
+  latitude= '39.745160' 
+  longitude = '-104.835950'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
@@ -139,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 1
   api_key: ''
   zoom: 15
 marketing:
