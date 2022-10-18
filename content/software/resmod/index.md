@@ -25,7 +25,7 @@ links:
   url: https://github.com/drewwint/resmod
 - icon: python
   icon_pack: fab
-  name: pypi
+  name: PyPi
   url: https://pypi.org/project/resmod/
 url_code: ""
 url_pdf: ""
