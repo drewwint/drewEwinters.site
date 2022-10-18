@@ -55,7 +55,7 @@ url_OSF: https://doi.org/10.17605/OSF.IO/NME25
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: "center"
+  focal_point: "left"
   preview_only: false
 
 # Associated Projects (optional).
