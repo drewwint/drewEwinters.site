@@ -15,22 +15,22 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-    
-  - name: Software
-    url: '#software'
-    weight: 25 
 
   - name: Publications
     url: '#featured'
     weight: 30
 
+  - name: Software
+    url: '#software'
+    weight: 35
+
   - name: Talks
     url: 'event/'
     weight: 40
     
-  - name: Certifications
-    url: 'certifications/'
-    weight: 45
+#  - name: Certifications
+#    url: '#accomplishments'
+#    weight: 45
 
   - name: Contact
     url: '#contact'
@@ -40,4 +40,4 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/CV.pdf
-    weight: 5
+    weight: 15
