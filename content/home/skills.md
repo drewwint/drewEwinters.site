@@ -19,7 +19,7 @@ feature:
 #    name: Neuroimaging
   - description: ""
     icon: head-side-brain
-    icon_pack: far
+    icon_pack: fas
     name: Neuroimaging
   - description: ""
     icon: r-project
