@@ -20,7 +20,7 @@ publishDate: "2022-02-01T00:00:00"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted*"
+publication: "*Psychiatry Research: Neuroimaging*"
 publication_short: ""
 
 abstract: Callous-Unemotional (CU) traits are often associated with impairments in perspective taking and cognitive control; and adolescents with CU traits demonstrate aberrant brain patterns in areas underlying perspective taking and cognitive control. Together cognitive control and perspective taking are thought to link mechanistically to explain CU traits. Because increased cognitive control demands modulate perspective taking ability among both typically developing samples and individuals with elevated CU traits, understanding the neurophysiological substrates of these constructs could inform both identification and interventional efforts to alleviate the societal costs of antisocial behavior. The present study examines the heterogenous functional brain properties underlying cognitive control’s influence on perspective taking among adolescents on a continuum of CU traits. Results reveal that cognitive control had a negative indirect association with CU traits via perspective taking; and that greater network connection density within the social and conflict brain networks indirectly associate with lower CU traits via perspective taking and cognitive control (respectively). Additionally, less negative network connection density between the social and conflict networks directly associated with higher CU traits. Our results support the growing literature on cognitive control’s influence on socio-cognitive functioning in CU traits and extends that work by identifying underlying functional brain properties.
