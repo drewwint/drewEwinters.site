@@ -18,10 +18,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: researchgate
-  icon_pack: fab
-  name: Follow
-  url: https://www.researchgate.net/project/Brain-Network-Topology-Underlying-Socio-Affective-Function-and-Callous-Unemotional-Traits
+#- icon: researchgate
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.researchgate.net/project/Brain-Network-Topology-Underlying-Socio-Affective-Function-and-Callous-Unemotional-Traits
 url_code: ""
 url_pdf: ""
 url_slides: ""
