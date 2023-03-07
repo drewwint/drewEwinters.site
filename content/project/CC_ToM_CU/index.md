@@ -19,10 +19,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: researchgate
-  icon_pack: fab
-  name: Follow
-  url: https://www.researchgate.net/project/Cognitive-Control-and-Affective-Theory-of-Mind-in-Early-Adolescents-with-Callous-Unemotional-Traits
+#- icon: researchgate
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.researchgate.net/project/Cognitive-Control-and-Affective-Theory-of-Mind-in-Early-Adolescents-with-Callous-Unemotional-Traits
 url_code: ""
 url_pdf: ""
 url_slides: ""
