@@ -18,7 +18,7 @@ publishDate: "2021-11-01T00:00:00"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted*"
+publication: "*Cognition and Emotion*"
 publication_short: ""
 
 abstract: Affective theory of mind (aToM) impairments predict antisocial behavior above clinical rating of the youth antisocial phenotype callous-unemotional (CU) traits. Adolescents with CU traits  demonstrate specific impairments in cognitive control; and cognitive control modulates aToM. Adolescents with CU traits specifically demonstrate aToM impairments during complex, but not basic, emotions, which require greater cognitive control to process. What is less understood is how cognitive control impacts complex aToM in relation to CU traits. Such investigations demonstrate promise for understanding modifiable mechanisms underlying core impairments of CU traits. To examine this, 81 participants (ages 12-14, Female = 51.8%, Male= 48.2%) were recruited to complete a behavioral paradigm that involved an initial aToM task followed by placing additional demands on cognitive control and a final repeat of the same aToM task. Results indicate higher CU traits associated with greater sensitivity to cognitive demands and that placing demands on cognitive control resulted in additional decrements in complex aToM. These preliminary results suggest that the cognitive control vulnerabilities associated with CU traits impact complex aToM. This may partially explain why youth with CU traits persist in antisocial behavior and warrants further investigation.  
