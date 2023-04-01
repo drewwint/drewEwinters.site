@@ -71,7 +71,7 @@ projects: [CC_ToM_CU]
 slides: 
 ---
 **Citation:**  
-Winters, D. E., & Sakai, J. T. (2021, October 30). Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control: A pilot study.
+Winters, D. E., & Sakai, J. T. (2021, October 30). Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control.
 
 
 
