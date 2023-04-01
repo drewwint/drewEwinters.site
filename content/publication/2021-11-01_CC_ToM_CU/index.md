@@ -1,6 +1,6 @@
 ---
 
-title: 'Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control: A pilot study'
+title: 'Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control'
 Authors: 
 - "**Drew E. Winters**"
 - "& Joseph T. Sakai" 
