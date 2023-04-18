@@ -7,7 +7,7 @@ event_url: https://medschool.cuanschutz.edu/psychiatry/programs/dprg-seminars
 location: Denver, CO
 address:
   street: 13001 East 17th Place
-  city: Surora
+  city: Aurora
   region: Colorado
   postcode: '80045'
   country: United States
@@ -18,8 +18,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-04-12T10:30:00Z"
-date_end: "2022-04-12T12:30:00Z"
+date: "2023-04-12T10:30:00Z"
+date_end: "2023-04-12T12:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
