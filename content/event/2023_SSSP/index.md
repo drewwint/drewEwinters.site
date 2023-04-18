@@ -9,7 +9,7 @@ address:
   street: 480 L'enfant Plz SW
   city: Washington
   region: District of Columbia
-  postcode: ''
+  postcode: '20024'
   country: United States
 
 summary: On the topic of cognitive control impairments impacting affective theory of mind associated with the youth antisocial phenotype callous-unemotoinal traits.
@@ -49,7 +49,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: https://psyarxiv.com/stwj8/
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
