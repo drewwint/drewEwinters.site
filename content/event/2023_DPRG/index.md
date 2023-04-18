@@ -1,5 +1,5 @@
 ---
-title: 'Functional Brain Properties in Adolescents with Callous-Unemotional Traits and Potential Mechanisms'
+title: 'Functional brain properties in adolescents with callous-unemotional traits and potential mechanisms'
 
 event: Developmental Psychobiology Research Group
 event_url: https://medschool.cuanschutz.edu/psychiatry/programs/dprg-seminars
