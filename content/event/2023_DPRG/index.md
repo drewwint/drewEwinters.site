@@ -49,7 +49,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: https://psyarxiv.com/stwj8/
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
