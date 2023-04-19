@@ -5,17 +5,17 @@ Authors:
 - "**Drew E. Winters**"
 - "& Joseph T. Sakai" 
 
-date: 2021-11-01T00:00:00
-doi: "10.31234/osf.io/stwj8"
+date: 2023-04-01T00:00:00
+doi: "10.1080/02699931.2023.2195154"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-01T00:00:00"
+publishDate: "2023-04-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Cognition and Emotion*"
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: #"https://raw.githubusercontent.com/drewwint/Drew-E-Winters.site/master/content/publication/2021-11-01_CC_ToM_CU/CC_ToM/CC_ToM_preprint.pdf"
+url_pdf: "https://doi.org/10.1080/02699931.2023.2195154"
 url_preprint: https://psyarxiv.com/stwj8/
 url_code: "https://htmlpreview.github.io/?https://raw.githubusercontent.com/drewwint/Affective-theory-of-mind-impairments-underlying-callous-unemotional-traits-and-the-role-of-cognitive/main/Full_data_paper-1_reproducable_RV_Final.html"
 url_dataset: ''
@@ -71,7 +71,7 @@ projects: [CC_ToM_CU]
 slides: 
 ---
 **Citation:**  
-Winters, D. E., & Sakai, J. T. (2021, October 30). Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control.
+Winters, D. E., & Sakai, J. T. (2023). Affective theory of mind impairments underlying callous-unemotional traits and the role of cognitive control. Cognition and Emotion, 1-18.
 
 
 
