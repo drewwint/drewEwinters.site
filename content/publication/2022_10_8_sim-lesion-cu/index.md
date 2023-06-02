@@ -8,7 +8,7 @@ Authors:
 - "& R. McKell Carter"
 
 date: 2022-10-08T00:00:00
-doi: "10.1101/2022.10.07.511379"
+doi: "10.1089/brain.2022.0074"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-08T00:00:00"
