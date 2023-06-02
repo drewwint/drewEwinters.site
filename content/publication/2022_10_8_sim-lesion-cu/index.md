@@ -17,10 +17,10 @@ publishDate: "2022-10-08T00:00:00"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted*"
+publication: "*Brain Connectivity*"
 publication_short: ""
 
 abstract: Callous-unemotional (CU) traits are a youth antisocial phenotype hypothesized to be a result of differences in the integration of multiple brain systems. However, mechanistic insights into these brain systems are a continued challenge. Where prior work describes activation and connectivity of the connectome in relation to these systems, new mechanistic insights can be derived by removing nodes and characterizing changes in network properties (hereafter referred to as computational lesioning) to characterize the resilience and vulnerability of the brains functional connectome. Here, we study the resilience of connectome integration in CU traits by estimating changes in efficiency after computationally lesioning individual-level connectomes. From resting-state data of 86 participants drawn from the Nathan Kline institutes Rockland study, individual-level connectomes were estimated using graphical lasso. Computational lesioning was conducted both sequentially and by targeting global and local hubs. We calculated changes in network efficiency after each lesion. Then, elastic net regression was applied to determine how these changes explained variance in CU traits. Follow-up analyses characterized modeled node hubs, examined moderation, determined impact of targeting, and decoded the brain mask by comparing regions to meta-analytic maps. Elastic net regression revealed that computational lesioning of 23 nodes, network modularity, and Tanner stage explained variance in CU traits. Hub assignment of selected hubs differed at higher CU traits. No evidence for moderation between simulated lesioning and CU traits was found. Targeting global hubs increased efficiency and targeting local hubs had no effect at higher CU traits. Identified brain mask meta-analytically associated with more emotion and cognitive terms. Although reliable patterns were found across participants, adolescent brains were heterogeneous even for those with a similar CU traits score. Adolescent brain response to simulated lesioning revealed a pattern of connectome resiliency and vulnerability that explains variance in CU traits, which can aid prediction of youth at greater risk for higher CU traits.
@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: https://doi.org/10.1089/brain.2022.0074
 url_preprint: https://doi.org/10.1101/2022.10.07.511379 
 url_code: https://github.com/drewwint/Publication_Simulated_Lesions_CU_Traits/blob/main/Sim_les_git_code.py
 url_dataset: https://identifiers.org/neurovault.collection:12738 
@@ -76,7 +76,7 @@ projects: [topology_cu]
 slides: ""
 ---
 **Citation:**  
-Drew E. Winters, Daniel R. Leopold, Joseph T. Sakai, R. McKell Carter, Efficiency of heterogenous functional connectomes explains variance in callous-unemotional traits after computational lesioning of cortical midline and salience regions. bioRxiv, 2022: p. 2022.10.07.511379.
+Drew E. Winters, Daniel R. Leopold, Joseph T. Sakai, R. McKell Carter, Efficiency of heterogenous functional connectomes explains variance in callous-unemotional traits after computational lesioning of cortical midline and salience regions. Brain Connectivity, 2023; doi: https://doi.org/10.1089/brain.2022.0074.
 
 
 
