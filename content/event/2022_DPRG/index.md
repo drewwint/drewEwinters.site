@@ -7,12 +7,12 @@ event_url: https://medschool.cuanschutz.edu/psychiatry/programs/dprg-seminars
 location: Denver, CO
 address:
   street: 13001 East 17th Place
-  city: Surora
+  city: Aurora
   region: Colorado
   postcode: '80045'
   country: United States
 
-summary: On the topic of cognitive control and its assocaition with affective theroy of mind in relation to the youth antisocial phenotype callous-unemotoinal traits.
+summary: On the topic of cognitive control and its association with affective theory of mind in relation to the youth antisocial phenotype callous-unemotional traits.
 
 abstract: ""
 
