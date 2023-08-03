@@ -1,5 +1,5 @@
 ---
-title: 'Distinct functional brain pattern and cognitive control vulnerabilities underlying callous-unemotional traits and the impact on theory of mind'
+title: 'Brain Communication for Executive and Social Function in Adolescents with Callous-Unemotional Traits'
 
 event: EDEN Lab 
 event_url: https://upennedenlab.com/
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: Presenting findings related to distinct functional brain pattern and cognitive control vulnerabilities for the antisocial phenotypes callous-unemotional traits and how these could contribute to core impairments involving infering others emotions. 
+summary: Presenting findings related to distinct functional brain patterns and cognitive control vulnerabilities for the antisocial phenotypes callous-unemotional traits and how these could contribute to core impairments involving inferring others emotions. 
 abstract: ""
 
 # Talk start and end times.
