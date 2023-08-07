@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Fellow in Developmental Psychobiology
+role: Research Associate Faculty
 avatar_filename: avatar.jpg
 bio: My research interests include mental and social health as well as their
   associated neural processes across the lifespan. In this vein, I am interested
