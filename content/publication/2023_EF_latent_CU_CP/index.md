@@ -35,7 +35,7 @@ tags:
 - GIMME
 - fMRI
 - Functional Connectivity
-featured: false
+featured: true
 
 
 # links:
