@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1101/2023.10.31.565009
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2023_EF_latent_CU_CP/2023_DDM-prosocial_CU.pdf 
 url_preprint: https://doi.org/10.1101/2023.10.31.565009
 url_code: ''
 url_dataset: ''
