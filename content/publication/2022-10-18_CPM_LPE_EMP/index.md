@@ -40,7 +40,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2022-10-18_CPM_LPE_EMP/2023_CPM-emp.pdf
 url_preprint: https://www.biorxiv.org/content/10.1101/2022.10.14.512331v1.full.pdf
 url_code: https://github.com/drewwint/pub_CPM_emp_LPE/blob/main/CPM_emp_LPE.py
 url_dataset: ''
