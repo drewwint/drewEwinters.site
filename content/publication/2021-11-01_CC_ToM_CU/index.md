@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://doi.org/10.1080/02699931.2023.2195154"
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2021-11-01_CC_ToM_CU/2021_CC-ToM.pdf
 url_preprint: https://psyarxiv.com/stwj8/
 url_code: "https://htmlpreview.github.io/?https://raw.githubusercontent.com/drewwint/Affective-theory-of-mind-impairments-underlying-callous-unemotional-traits-and-the-role-of-cognitive/main/Full_data_paper-1_reproducable_RV_Final.html"
 url_dataset: ''
