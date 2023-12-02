@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s10578-022-01429-1
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2022-9-10_emot-ID_CU/2022_emot-ID_CU.pdf
 url_preprint: ''
 url_code: ''
 url_dataset: ''
