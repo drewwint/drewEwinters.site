@@ -50,7 +50,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41597-022-01695-7
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2022-10-15_fibr_consort/s41597-022-01695-7.pdf
 url_preprint: https://www.biorxiv.org/content/10.1101/2022.02.24.481303v1
 url_code: ''
 url_dataset: ''
