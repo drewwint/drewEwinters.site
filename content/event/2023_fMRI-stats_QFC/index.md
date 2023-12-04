@@ -1,5 +1,5 @@
 ---
-title: 'Functional Magnetic Resonance Imaging (fMRI): an introduction and statistical approaches'
+title: 'Analyzing fMRI data: an introduction to statistical approaches'
 
 event: Quant Family Collective 
 event_url: https://www.annemaheux.com/quant-family-collective
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: Providing an introduction to fMRI data and statistical analyses with fMRI data. 
+summary: Providing an introduction to fMRI of the human brain and statistical analyses with fMRI data. 
 abstract: ""
 
 # Talk start and end times.
