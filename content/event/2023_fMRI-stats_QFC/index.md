@@ -50,7 +50,7 @@ links:
 url_code: https://github.com/drewwint/Quant-Family-Collective-fMRI-stats
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: https://www.youtube.com/watch?v=9hPLDx-hWAs
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
