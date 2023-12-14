@@ -49,7 +49,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: https://doi.org/10.1177/00220426231159303
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2023_emp-s_cons-sub/2023_emp-s_cons-sub.pdf
 url_slides: ""
 url_video: ""
 
