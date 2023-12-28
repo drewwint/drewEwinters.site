@@ -1,5 +1,5 @@
 ---
-role: Research Associate Faculty
+role: Research Faculty
 avatar_filename: avatar.jpg
 bio: My research interests include mental and social health as well as their
   associated neural processes across the lifespan. In this vein, I am interested
@@ -55,7 +55,7 @@ highlight_name: true
 title: Drew E. Winters, PhD.
 email: drewEwinters@gmail.com
 ---
-Drew holds a Research Associate Faculty appointment at the University of Colorado Anschutz Medical Campus in Psychiatry where he directs the **A**ffective **S**ocial **C**ognition, **E**xecutive functioning, and **N**euro-**D**evelopment lab (**ASCEND**).
+Drew holds a Research Faculty appointment at the University of Colorado Anschutz Medical Campus in Psychiatry where he directs the **A**ffective **S**ocial **C**ognition, **E**xecutive functioning, and **N**euro-**D**evelopment lab (**ASCEND**).
 
 Drew’s research broadly aims to understand neural processes underlying the relationship between [social cognition](https://en.wikipedia.org/wiki/Social_cognition)  and [executive functioning](https://en.wikipedia.org/wiki/Executive_functions) in relation to mental health and social behavior across adolescence and into adulthood. Profound impairments in these processes can occur and frequently coincide with the development of [phenotypes](https://en.wikipedia.org/wiki/Phenotype) associated with [antisocial behavior](https://en.wikipedia.org/wiki/Anti-social_behaviour) (e.g. [callous-unemotional traits]( https://en.wikipedia.org/wiki/Callous_and_unemotional_traits)). In this vein, his research focuses on understanding how the interaction between executive functions and social cognition may contribute to antisocial phenotypes, and the associated brain [mechanisms](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-24612-3_1562), across development. 
 
