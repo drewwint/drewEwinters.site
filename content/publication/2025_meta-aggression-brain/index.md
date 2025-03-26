@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2025_meta-aggression-brain/meta-aggression-brain.pdf
 url_preprint: ''
 url_code: ''
 url_dataset: ''
