@@ -6,11 +6,11 @@ Authors:
 - Christian Hopfer
 - Drew E. Winters
 
-date: 202d-02-31T00:00:00
+date: 2025-02-31T00:00:00
 doi: "10.1016/j.avb.2025.102035"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-01T00:00:00"
+publishDate: "2025-01-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
