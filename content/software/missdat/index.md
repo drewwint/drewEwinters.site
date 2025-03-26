@@ -1,6 +1,6 @@
 ---
 title: missdat
-summary: A package for assessing missing data patterns (Role Author)
+summary: A package for missing data diagnostics and estimating missing values (Role Author)
 
 tags:
 - Software
