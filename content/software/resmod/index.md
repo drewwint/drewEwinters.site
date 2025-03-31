@@ -30,7 +30,7 @@ links:
 - icon: terminal
   icon_pack: fas
   name: Tutorial
-  URL: https://colab.research.google.com/drive/11wag0el3kHMiDKBE0ioyE2K8jLbW5hdJ?usp=sharing
+  URL: https://github.com/drewwint/resmod/blob/main/resmod_package_example_and_tutorial.ipynb
 url_code: ""
 url_pdf: https://osf.io/preprints/osf/x9s5j_v1
 url_slides: ""
