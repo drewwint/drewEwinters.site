@@ -23,10 +23,14 @@ links:
   url: https://github.com/drewwint/missdat
 - icon: python
   icon_pack: fab
-  name: PyPi
+  name: PyPI
   url: https://pypi.org/project/missdat/
+- icon: terminal
+  icon_pack: fas
+  name: Tutorial
+  URL: https://colab.research.google.com/drive/1Dh8Dxf5srIofbsN9KEs1uU1-IAD1pGwV?usp=sharing
 url_code: ""
-url_pdf: ""
+url_pdf: https://osf.io/preprints/osf/x3bg7_v1
 url_slides: ""
 url_video: ""
 
