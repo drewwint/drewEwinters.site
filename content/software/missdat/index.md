@@ -25,7 +25,15 @@ links:
   icon_pack: fab
   name: PyPI
   url: https://pypi.org/project/missdat/
-url_code: https://colab.research.google.com/drive/1Dh8Dxf5srIofbsN9KEs1uU1-IAD1pGwV?usp=sharing
+- icon: terminal
+  icon_pack: fas
+  name: Tutorial
+  url: https://colab.research.google.com/drive/1Dh8Dxf5srIofbsN9KEs1uU1-IAD1pGwV?usp=sharing
+- icon: chart-line
+  incon_pack: fas
+  name: Stats
+  url: https://pypistats.org/search/missdat
+url_code: ""
 url_pdf: https://osf.io/preprints/osf/x3bg7_v1
 url_slides: ""
 url_video: ""
