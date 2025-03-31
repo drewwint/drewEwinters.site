@@ -31,7 +31,7 @@ tags:
 - Aggression
 - fMRI
 - Functional Connectivity
-featured: true
+featured: false
 
 
 # links:
