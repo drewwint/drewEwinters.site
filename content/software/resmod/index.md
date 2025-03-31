@@ -27,7 +27,15 @@ links:
   icon_pack: fab
   name: PyPi
   url: https://pypi.org/project/resmod/
-url_code: https://colab.research.google.com/drive/11wag0el3kHMiDKBE0ioyE2K8jLbW5hdJ?usp=sharing
+- icon: terminal
+  icon_pack: fas
+  name: Tutorial
+  url: https://colab.research.google.com/drive/11wag0el3kHMiDKBE0ioyE2K8jLbW5hdJ?usp=sharing
+- icon: chart-line
+  incon_pack: fas
+  name: Stats
+  url: https://pypistats.org/search/resmod
+url_code: ""
 url_pdf: https://osf.io/preprints/osf/x9s5j_v1
 url_slides: ""
 url_video: ""
