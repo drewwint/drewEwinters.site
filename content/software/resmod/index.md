@@ -1,6 +1,6 @@
 ---
 title: resmod
-summary: A python package for centering residuals to create orthogonalized interaction terms (Role Author)
+summary: A package for deriving orthogonalized interaction terms, reporting interaction analyses, and visualization of interactions (Role Author)
 
 tags:
 - Software
