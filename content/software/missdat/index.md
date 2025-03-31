@@ -28,7 +28,7 @@ links:
 - icon: terminal
   icon_pack: fas
   name: Tutorial
-  URL: https://colab.research.google.com/drive/1Dh8Dxf5srIofbsN9KEs1uU1-IAD1pGwV?usp=sharing
+  URL: https://github.com/drewwint/missdat/blob/main/missdat_package_example_and_tutorial.ipynb
 url_code: ""
 url_pdf: https://osf.io/preprints/osf/x3bg7_v1
 url_slides: ""
