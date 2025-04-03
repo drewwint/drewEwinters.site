@@ -17,6 +17,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:wwww.drewEwinters@gmail.com
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@drew.e.winters
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
