@@ -14,15 +14,15 @@ interests:
   - Developmental Psychobiology
   - Open Science
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:wwww.drewEwinters@gmail.com
-  - icon: youtube
+  - icon: github
     icon_pack: fab
-    link: https://www.youtube.com/@drew.e.winters
+    link: https://github.com/drewwint
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GmIdIyIAAAAJ&view_op=list_works&sortby=pubdate
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@drew.e.winters
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/drewinters
@@ -32,9 +32,10 @@ social:
   - icon: osf
     icon_pack: ai
     link:	https://osf.io/3pjnt/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/drewwint
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:wwww.drewEwinters@gmail.com
+
 
 organizations:
   - name: University of Colorado Anschutz Medical Campus
