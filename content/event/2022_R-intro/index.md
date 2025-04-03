@@ -48,7 +48,7 @@ links:
 url_code: https://github.com/drewwint/Introduction-to-R/blob/main/Tutorial_code/basic%20R%20functions.R
 url_pdf: ""
 url_slides: https://htmlpreview.github.io/?https://github.com/drewwint/Introduction-to-R/blob/main/Slides/R_Intro_slides_V2.html
-url_video: https://www.youtube.com/watch?v=E2VQycDCUMk
+url_video: https://youtu.be/7UHizRQ0Ep0
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
