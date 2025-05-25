@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2023_EF_latent_CU_CP/2023_DDM-prosocial_CU.pdf 
+url_pdf: https://www.drewewinters.com/publication/2023_EF_latent_CU_CP/2023_DDM-prosocial_CU.pdf 
 url_preprint: https://doi.org/10.1101/2023.10.31.565009
 url_code: https://github.com/drewwint/publication_latent-EF_and_brain_in_conduct_CU_traits
 url_dataset: ''
