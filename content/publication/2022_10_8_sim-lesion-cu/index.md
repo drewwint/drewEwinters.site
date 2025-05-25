@@ -41,8 +41,8 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2022_10_8_sim-lesion-cu/BRAIN-2022-0074-Winters_1P_Corrected.pdf
+#   url: "" https://github.com/drewwint/drewEwinters.site/blob/master/content
+url_pdf: https://www.drewewinters.com/publication/publication/2022_10_8_sim-lesion-cu/BRAIN-2022-0074-Winters_1P_Corrected.pdf
 url_preprint: https://doi.org/10.1101/2022.10.07.511379 
 url_code: https://github.com/drewwint/Publication_Simulated_Lesions_CU_Traits/blob/main/Sim_les_git_code.py
 url_dataset: https://identifiers.org/neurovault.collection:12738 
