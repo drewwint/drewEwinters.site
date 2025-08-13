@@ -1,5 +1,5 @@
 ---
-title: missdat <a href="https://pepy.tech/projects/missdat"><img src="https://static.pepy.tech/badge/missdat" alt="PyPI Downloads"></a>
+title: missdat
 summary: A package for missing data diagnostics and estimating missing values (Role Author)
 
 tags:
