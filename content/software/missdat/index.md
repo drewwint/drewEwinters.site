@@ -1,6 +1,4 @@
 ---
-[![Pepy Total Downloads](https://img.shields.io/pepy/dt/missdat)](https://pepy.tech/project/missdat)
-
 title: missdat
 summary: A package for missing data diagnostics and estimating missing values (Role Author)
 
@@ -34,7 +32,7 @@ links:
 - icon: chart-line
   incon_pack: fas
   name: Stats
-  url: https://pypistats.org/search/missdat
+  url: https://static.pepy.tech/badge/missdat #https://pypistats.org/search/missdat
 url_code: ""
 url_pdf: https://osf.io/preprints/osf/x3bg7_v1
 url_slides: ""
