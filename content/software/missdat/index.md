@@ -1,4 +1,6 @@
 ---
+[![Pepy Total Downloads](https://img.shields.io/pepy/dt/missdat)](https://pepy.tech/project/missdat)
+
 title: missdat
 summary: A package for missing data diagnostics and estimating missing values (Role Author)
 
