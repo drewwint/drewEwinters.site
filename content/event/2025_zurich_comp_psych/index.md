@@ -51,7 +51,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://github.com/drewwint/drewEwinters.site/blob/master/content/event/2025_zurich_comp_psych/DWinters_CPC-Zurich-2025_poster_Final.png
 url_video: ""
 
 # Markdown Slides (optional).
