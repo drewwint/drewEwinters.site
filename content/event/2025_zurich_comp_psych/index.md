@@ -28,6 +28,7 @@ authors:
 - Drew E. Winters
 
 tags: 
+- Computational
 - HMM
 - Latent State Modeling
 - Functional Connectivity
