@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Switzerland
 
-summary: Outlining simulation results for the development of Probabilistic Cognitive State Modeling (PCSM), a method leveraging fMRI data to infer information processing states. 
+summary: Presenting simulation results for the development of Probabilistic Cognitive State Modeling (PCSM), a computational method leveraging fMRI data to infer information processing states dynamically. 
 abstract: ""
 
 # Talk start and end times.
