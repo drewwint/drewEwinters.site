@@ -44,6 +44,9 @@ organizations:
     url: https://medschool.cuanschutz.edu/psychiatry/education/fellowships/developmental-psychobiology-research-group
 education:
   courses:
+    - course: T32 Postdoc in Developmental Psychobiology
+      institution: University of Colorado Anschutz Medical Campus
+      year: 2023
     - course: PhD in Social Work / Quantitative Psychology
       institution: Indiana University
       year: 2020
