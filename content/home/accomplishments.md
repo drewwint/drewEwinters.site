@@ -3,6 +3,15 @@ widget: accomplishments
 date_format: Jan 2006
 # active: false
 item:
+  - certificate_url: https://github.com/drewwint/drewEwinters.site/blob/master/static/uploads/DWinters_TMS_MUSC.png
+    date_end: ""
+    date_start: 2025-05-17 
+    description: 40 hour 1 week course
+    organization: Medical University of South Carolina
+    organization_url: https://medicine.musc.edu/departments/psychiatry/divisions-and-programs/divisions/brain-stimulation-lab/about/course
+    title: Brain Stimulation Intensive Course
+    url: https://medicine.musc.edu/departments/psychiatry/divisions-and-programs/divisions/brain-stimulation-lab/brain-stimulation-lab
+    
   - certificate_url: https://raw.githubusercontent.com/drewwint/drewEwinters.site/master/static/uploads/ML_scikitlearn_DWinters_2022.pdf
     date_end: ""
     date_start: 2022-05-17 
