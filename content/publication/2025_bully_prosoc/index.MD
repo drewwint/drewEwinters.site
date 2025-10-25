@@ -9,12 +9,12 @@ Authors:
 - B T Ricker
 - "& P. J. Fite"
 
-date: 2025-02-11T00:00:00
+date: 2024-02-11T00:00:00
 doi: "10.1017/S0954579423001694"
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-11T00:00:00"
+publishDate: "2024-02-11T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -57,10 +57,10 @@ url_OSF: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: "top"
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: "top"
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
