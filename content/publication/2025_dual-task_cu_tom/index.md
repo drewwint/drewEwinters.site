@@ -43,16 +43,16 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.jad.2025.04.154
-url_preprint: ''
-url_code: ''
+url_pdf: https://github.com/drewwint/drewEwinters.site/blob/master/content/publication/2025_dual-task_cu_tom/dual-task.pdf
+url_preprint: https://doi.org/10.31234/osf.io/j3wqs
+url_code: https://github.com/drewwint/pub_dual-task_tom_cog-ctrl_rct
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_OSF: ''
+url_OSF: https://doi.org/10.17605/OSF.IO/BHWEU
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
