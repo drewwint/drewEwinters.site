@@ -1,7 +1,7 @@
 ---
 role: Assistant Professor of Psychiatry
 avatar_filename: avatar.jpg
-bio: My research interests include mental and social health as well as their
+bio: My research interests include mental and social health, as well as their
   associated neural processes across the lifespan. In this vein, I am interested
   in applying quantitative methods to identify replicable neural mechanisms that
   may improve testing and development of interventions for youth with
@@ -61,7 +61,7 @@ highlight_name: true
 title: Drew E. Winters, PhD.
 email: drewEwinters@gmail.com
 ---
-Drew E. Winters, PhD, holds an Assistant Professor appointment in the Department of Psychiatry at the University of Colorado Anschutz Medical Campus, where he directs the **A**ffective **S**ocial **C**ognition, **E**xecutive functioning, and **N**eural-**D**evelopment lab (**ASCEND**).
+Drew E. Winters, PhD. holds an Assistant Professor appointment in the Department of Psychiatry at the University of Colorado Anschutz Medical Campus, where he directs the **A**ffective **S**ocial **C**ognition, **E**xecutive functioning, and **N**eural-**D**evelopment lab (**ASCEND**).
 
 His research broadly aims to understand neural processes linking [social cognition](https://en.wikipedia.org/wiki/Social_cognition) and [executive functioning](https://en.wikipedia.org/wiki/Executive_functions) to mental health and social behavior across adolescence and into adulthood. These processes can be profoundly impaired—particularly in individuals with [phenotypes](https://en.wikipedia.org/wiki/Phenotype) associated with [antisocial behavior](https://en.wikipedia.org/wiki/Anti-social_behaviour) (e.g. [callous-unemotionality](https://en.wikipedia.org/wiki/Callous_and_unemotional_traits), [psychopathy](https://en.wikipedia.org/wiki/Psychopathy)). Drew’s work investigates how social and executive functions interact as a [psychological mechanism](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-24612-3_1562) as well as the implicated [brain mechanisms (circuits/topology/networks)](https://doi.org/10.1038/s41583-023-00778-7) contribute to the development of these traits.
 
