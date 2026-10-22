@@ -5,10 +5,10 @@ summary: Hierarchical Bayesian meta-analysis for Python, with descriptive summar
 tags:
 - Software
 - meta-analysis
-- bayesian analysis
+- Bayesian analysis
 - Python
 - Statistics
-date: "2023-05-15T00:00:00Z"
+date: "2025-05-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://pypi.org/project/hiermeta/
